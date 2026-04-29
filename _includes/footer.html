@@ -1,0 +1,13 @@
+<footer id="colophon" class="site-footer" role="contentinfo">
+  <div class="site-info">
+    <div class="col">
+      &copy; {{ site.time | date: '%Y' }} {{ site.author | default: site.title }} &middot; All rights reserved
+    </div>
+    <div class="col social">
+      {% if site.social.instagram %}<a href="{{ site.social.instagram }}" aria-label="Instagram" class="ico ico-instagram">Instagram</a>{% endif %}
+      {% if site.social.facebook %}<a href="{{ site.social.facebook }}" aria-label="Facebook" class="ico ico-facebook">Facebook</a>{% endif %}
+      {% if site.social.twitter %}<a href="{{ site.social.twitter }}" aria-label="Twitter" class="ico ico-twitter">Twitter</a>{% endif %}
+    </div>
+  </div>
+  <a href="#masthead" id="scroll-up" aria-label="Back to top">&uarr;</a>
+</footer>

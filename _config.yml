@@ -1,0 +1,55 @@
+title: code. travel. repeat.
+description: Just another photoblog of a programmer who loves to travel and freeze every experience.
+author: J-Boy Cagumbay
+email: jb.cagumbay@gmail.com
+
+# Set this to your GitHub Pages URL once known. For user/org site, leave baseurl empty.
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+timezone: UTC
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 9
+paginate_path: "/page:num/"
+
+logo: /assets/wp-content/uploads/2020/05/logo-copy.png
+hero_banner: /assets/wp-content/uploads/2016/04/backflip.gif
+
+nav:
+  - title: About
+    url: /about/
+  - title: Travel Tips
+    url: /travel-tips/
+  - title: Where I've Been
+    url: /where-ive-been/
+  - title: Privacy Policy
+    url: /privacy-policy-2/
+
+social:
+  instagram: https://instagram.com/jcagumbay/
+  facebook: https://www.facebook.com/jeyboy.cagumbay
+  twitter: https://twitter.com/batangbolanon
+
+include:
+  - _pages
+  - _category
+  - _tag
+
+exclude:
+  - codetravelrepeat.WordPress.2026-04-28.xml
+  - convert.py
+  - download_assets.py
+  - .venv
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md

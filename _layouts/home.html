@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<section class="hero">
+  {% if site.hero_banner %}
+  <div class="hero-banner">
+    <img src="{{ site.hero_banner | relative_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+</section>
+
+<section id="squarePosts">
+  <div id="squareTiles" class="clearfix">
+    {% assign posts = paginator.posts | default: site.posts %}
+    {% for post in posts %}
+    <div class="box">
+      <a class="innerBox" href="{{ post.url | relative_url }}"
+         {% if post.image %}style="background-image: url('{{ post.image | relative_url }}');"{% endif %}>
+        <div class="titleBox">
+          <article id="post-{{ post.wordpress_id | default: post.slug }}">
+            <h3>{{ post.title }}</h3>
+          </article>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- {% if paginator and paginator.total_pages > 1 %}
+<nav class="pagination" aria-label="Pagination">
+  {% if paginator.previous_page %}<a class="prev" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>{% endif %}
+  <span class="page-info">Page {{ paginator.page }} / {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}<a class="next" href="{{ paginator.next_page_path | relative_url }}">Older &rarr;</a>{% endif %}
+</nav>
+{% endif %} -->

@@ -1,0 +1,20 @@
+<header id="masthead" class="site-header" role="banner">
+  <div class="site-branding">
+    <a href="{{ '/' | relative_url }}" id="logo">
+      {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">{% endif %}
+      <div class="title-group">
+        <h1 class="site-title">{{ site.title }}</h1>
+        <h2 class="site-description">{{ site.description }}</h2>
+      </div>
+    </a>
+  </div>
+  <nav id="site-navigation" class="main-navigation" role="navigation">
+    <input type="checkbox" id="menu-toggle" class="menu-toggle-checkbox">
+    <label for="menu-toggle" class="menu-toggle" aria-label="Menu"><span></span><span></span><span></span></label>
+    <ul class="nav-menu">
+      {% for item in site.nav %}
+        <li class="menu-item{% if page.url == item.url %} active{% endif %}"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

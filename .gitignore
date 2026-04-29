@@ -1,0 +1,18 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+.venv/
+__pycache__/
+*.pyc
+Gemfile.lock
+.DS_Store
+
+# downloaded WordPress media (regen with download_assets.py + download_referenced.py)
+assets/wp-content/uploads/
+download.log
+download_ref.log
+download_failures.log
+download_referenced_failures.log

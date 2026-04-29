@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<section class="archive-header">
+  <h1 class="archive-title">
+    {% if page.kind == 'category' %}Category: {% else %}Tag: {% endif %}{{ page.term }}
+  </h1>
+</section>
+
+<section id="squarePosts">
+  <div id="squareTiles" class="clearfix">
+    {% if page.kind == 'category' %}
+      {% assign matched = site.posts | where_exp: "p", "p.categories contains page.term" %}
+    {% else %}
+      {% assign matched = site.posts | where_exp: "p", "p.tags contains page.term" %}
+    {% endif %}
+    {% for post in matched %}
+    <div class="box">
+      <a class="innerBox" href="{{ post.url | relative_url }}"
+         {% if post.image %}style="background-image: url('{{ post.image | relative_url }}');"{% endif %}>
+        <div class="titleBox">
+          <article id="post-{{ post.wordpress_id | default: post.slug }}">
+            <h3>{{ post.title }}</h3>
+          </article>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  <p class="archive-count">{{ matched | size }} post{% if matched.size != 1 %}s{% endif %}.</p>
+</section>
