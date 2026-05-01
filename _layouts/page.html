@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
-<article class="page">
-  <div class="page-content">{{ content }}</div>
-</article>
+<div id="wrap-content" class="wrap">
+  <div id="content" class="site-content">
+    <div id="primary" class="content-area">
+      <article class="page">
+        {% if page.title %}<header class="page-header"><h1>{{ page.title }}</h1></header>{% endif %}
+        <div class="page-content">{{ content }}</div>
+      </article>
+    </div>
+    {% include sidebar.html %}
+  </div>
+</div>

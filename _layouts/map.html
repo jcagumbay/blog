@@ -1,0 +1,81 @@
+---
+layout: default
+---
+<div id="wrap-content" class="wrap">
+  <div id="content" class="site-content">
+    <div id="primary" class="content-area">
+      <article class="page map-page">
+        {% if page.title %}<header class="page-header"><h1>{{ page.title }}</h1></header>{% endif %}
+        <div class="page-content">
+          {{ content }}
+          <div id="travel-map" aria-label="Map of places I've visited"></div>
+          <p class="map-count">{{ site.data.locations | size }} places.</p>
+        </div>
+      </article>
+    </div>
+    {% include sidebar.html %}
+  </div>
+</div>
+
+<script>
+  window.MAP_LOCATIONS = {{ site.data.locations | jsonify }};
+</script>
+<script async defer
+  src="https://maps.googleapis.com/maps/api/js?key={{ site.data.api_keys.google_maps }}&callback=initTravelMap&loading=async&v=weekly"></script>
+<script>
+  function initTravelMap() {
+    var locations = window.MAP_LOCATIONS || [];
+    var map = new google.maps.Map(document.getElementById('travel-map'), {
+      zoom: 2,
+      center: { lat: 20, lng: 0 },
+      mapTypeControl: true,
+      streetViewControl: false,
+      fullscreenControl: true,
+      gestureHandling: 'cooperative',
+    });
+
+    var bounds = new google.maps.LatLngBounds();
+    var infowindow = new google.maps.InfoWindow();
+
+    locations.forEach(function (loc) {
+      var marker = new google.maps.Marker({
+        position: { lat: loc.lat, lng: loc.lng },
+        map: map,
+        title: loc.title,
+        animation: google.maps.Animation.DROP,
+      });
+
+      var html = '<div class="map-info">';
+      html += '<strong>' + escapeHtml(loc.title) + '</strong>';
+      var place = [loc.city, loc.country].filter(Boolean).join(', ');
+      if (place) html += '<div class="map-place">' + escapeHtml(place) + '</div>';
+      var href = loc.url || loc.external_url;
+      if (href) {
+        html += '<a class="map-link" href="' + href + '"';
+        if (loc.external_url && !loc.url) html += ' target="_blank" rel="noopener"';
+        html += '>Read post &rarr;</a>';
+      }
+      html += '</div>';
+
+      marker.addListener('click', function () {
+        infowindow.setContent(html);
+        infowindow.open(map, marker);
+      });
+
+      bounds.extend(marker.getPosition());
+    });
+
+    if (locations.length > 0) {
+      map.fitBounds(bounds);
+      google.maps.event.addListenerOnce(map, 'idle', function () {
+        if (map.getZoom() > 6) map.setZoom(6);
+      });
+    }
+  }
+
+  function escapeHtml(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+</script>

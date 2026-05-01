@@ -57,6 +57,25 @@ layout: default
           {% endif %}
         </footer>
       </article>
+
+      <nav id="nav-below" class="single-nav-below" aria-label="Post navigation">
+        <div class="nav-prev">
+          {% if page.previous %}
+          <a href="{{ page.previous.url | relative_url }}" rel="prev">
+            <span class="nav-arrow">&#8249;</span>
+            <span class="nav-title">{{ page.previous.title }}</span>
+          </a>
+          {% endif %}
+        </div>
+        <div class="nav-next">
+          {% if page.next %}
+          <a href="{{ page.next.url | relative_url }}" rel="next">
+            <span class="nav-title">{{ page.next.title }}</span>
+            <span class="nav-arrow">&#8250;</span>
+          </a>
+          {% endif %}
+        </div>
+      </nav>
     </div><!-- #primary -->
 
     {% include sidebar.html %}
