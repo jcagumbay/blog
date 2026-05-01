@@ -44,32 +44,119 @@ Hopefully by the time we go back, Kerwin and his flatmate Alyssa—whom I had so
 
 Lastly, fingers crossed for better weather next time we climb the Empire State Building—because all we saw this time was a sea of clouds. 😄
 
-![Lobby architecture - American Museum of Natural History](/assets/wp-content/uploads/2025/05/DSCF0117.jpg) Lobby architecture - American Museum of Natural History
-![Blue Whale - American Museum of Natural History](/assets/wp-content/uploads/2025/05/DSCF0157.jpg) Blue Whale - American Museum of Natural History
-![T-Rex - American Museum of Natural History](/assets/wp-content/uploads/2025/05/DSCF0173.jpg) T-Rex - American Museum of Natural History
-![A window to the savannah - American Museum of Natural History](/assets/wp-content/uploads/2025/05/DSCF0188.jpg) A window to the savannah - American Museum of Natural History
-![Boating - Central Park](/assets/wp-content/uploads/2025/05/DSCF0420.jpg) Boating - Central Park
-![Bridge - Central Park](/assets/wp-content/uploads/2025/05/DSCF0421.jpg) Bridge - Central Park
-![High rise buildings viewed from Central Park](/assets/wp-content/uploads/2025/05/DSCF0543.jpg) High rise buildings viewed from Central Park
-![Bethesda Fountain - Central Park](/assets/wp-content/uploads/2025/05/DSCF0487.jpg) Bethesda Fountain - Central Park
-![Subway](/assets/wp-content/uploads/2025/05/DSCF0607.jpg) Subway
-![Wall St. Station](/assets/wp-content/uploads/2025/05/DSCF1750.jpg) Wall St. Station
-![The Plaza New York](/assets/wp-content/uploads/2025/05/DSCF0601.jpg) The Plaza New York
-![Lady Liberty](/assets/wp-content/uploads/2025/05/DSCF0823.jpg) Lady Liberty
-![Financial District - Manhattan](/assets/wp-content/uploads/2025/05/DSCF0874.jpg) Financial District - Manhattan
-![Brooklyn and Manhattan bridges](/assets/wp-content/uploads/2025/05/DSCF0987.jpg) Brooklyn and Manhattan bridges
-![Packed residential buildings - Lower Manhattan](/assets/wp-content/uploads/2025/05/DSCF1035.jpg) Packed residential buildings - Lower Manhattan
-![Brooklyn Bridge](/assets/wp-content/uploads/2025/05/DSCF1415.jpg) Brooklyn Bridge
-![Have you watched Friends?](/assets/wp-content/uploads/2025/05/DSCF2057.jpg) Have you watched Friends?
-![9/11 Memorial and Museum](/assets/wp-content/uploads/2025/05/DSCF1817.jpg) 9/11 Memorial and Museum
-![Majestic view at the top of the Empire State](/assets/wp-content/uploads/2025/05/DSCF2799.jpg) Majestic view at the top of the Empire State
-![Grand Central](/assets/wp-content/uploads/2025/05/DSCF2237.jpg) Grand Central
-![Radio City Music Hall](/assets/wp-content/uploads/2025/05/DSCF1889.jpg) Radio City Music Hall
-![& Juliet Musical - Broadway](/assets/wp-content/uploads/2025/05/DSCF2030.jpg) & Juliet Musical - Broadway
-![Hot Ones' sauces](/assets/wp-content/uploads/2025/05/DSCF2848.jpg) Hot Ones' sauces
-![Chinatown foodtrip](/assets/wp-content/uploads/2025/05/DSCF1615.jpg) Chinatown foodtrip
-![Pork-pineapple bun in front of the Court House. Detective Olivia Benson. Ring a bell? Law & Order: SVU?](/assets/wp-content/uploads/2025/05/DSCF1637.jpg) Pork-pineapple bun in front of the Court House. Detective Olivia Benson. Ring a bell? Law & Order: SVU?
-![Bagel on the go](/assets/wp-content/uploads/2025/05/DSCF0699.jpg) Bagel on the go
-![Kat'z Deli pastrami sandwich](/assets/wp-content/uploads/2025/05/DSCF2720.jpg) Kat'z Deli pastrami sandwich
-![The Mecca of Basketball - Madison Square Garden](/assets/wp-content/uploads/2025/05/DSCF2559.jpg) The Mecca of Basketball - Madison Square Garden
-![Times Square](/assets/wp-content/uploads/2025/05/DSCF2400.jpg) Times Square
+<figure class="wp-caption">
+<img class="wp-image-6629 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0117.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Lobby architecture - American Museum of Natural History</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6630 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0157.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Blue Whale - American Museum of Natural History</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6631 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0173.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">T-Rex - American Museum of Natural History</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6632 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0188.jpg" width="1024" height="579" />
+<figcaption class="wp-caption-text">A window to the savannah - American Museum of Natural History</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6633 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0420.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Boating - Central Park</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6634 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0421.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Bridge - Central Park</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6636 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0543.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">High rise buildings viewed from Central Park</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6635 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0487.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Bethesda Fountain - Central Park</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6638 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0607.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Subway</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6648 size-full" src="/assets/wp-content/uploads/2025/05/DSCF1750.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Wall St. Station</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6637 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0601.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">The Plaza New York</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6640 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0823.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Lady Liberty</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6641 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0874.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Financial District - Manhattan</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6642 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0987.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Brooklyn and Manhattan bridges</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6643 size-full" src="/assets/wp-content/uploads/2025/05/DSCF1035.jpg" width="1024" height="534" />
+<figcaption class="wp-caption-text">Packed residential buildings - Lower Manhattan</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6644 size-full" src="/assets/wp-content/uploads/2025/05/DSCF1415.jpg" width="1024" height="612" />
+<figcaption class="wp-caption-text">Brooklyn Bridge</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6649 size-full" src="/assets/wp-content/uploads/2025/05/DSCF2057.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Have you watched Friends?</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6647 size-full" src="/assets/wp-content/uploads/2025/05/DSCF1817.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">9/11 Memorial and Museum</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6655 size-full" src="/assets/wp-content/uploads/2025/05/DSCF2799.jpg" width="1024" height="730" />
+<figcaption class="wp-caption-text">Majestic view at the top of the Empire State</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6651 size-full" src="/assets/wp-content/uploads/2025/05/DSCF2237.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Grand Central</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6627 size-full" src="/assets/wp-content/uploads/2025/05/DSCF1889.jpg" width="1024" height="656" />
+<figcaption class="wp-caption-text">Radio City Music Hall</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6650 size-full" src="/assets/wp-content/uploads/2025/05/DSCF2030.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">&amp; Juliet Musical - Broadway</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6654 size-full" src="/assets/wp-content/uploads/2025/05/DSCF2848.jpg" width="1024" height="522" />
+<figcaption class="wp-caption-text">Hot Ones' sauces</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6645 size-full" src="/assets/wp-content/uploads/2025/05/DSCF1615.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Chinatown foodtrip</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6646 size-full" src="/assets/wp-content/uploads/2025/05/DSCF1637.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Pork-pineapple bun in front of the Court House. Detective Olivia Benson. Ring a bell? Law &amp; Order: SVU?</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6639 size-full" src="/assets/wp-content/uploads/2025/05/DSCF0699.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Bagel on the go</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6656 size-full" src="/assets/wp-content/uploads/2025/05/DSCF2720.jpg" width="1024" height="641" />
+<figcaption class="wp-caption-text">Kat'z Deli pastrami sandwich</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6653 size-full" src="/assets/wp-content/uploads/2025/05/DSCF2559.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">The Mecca of Basketball - Madison Square Garden</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6652 size-full" src="/assets/wp-content/uploads/2025/05/DSCF2400.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Times Square</figcaption>
+</figure>

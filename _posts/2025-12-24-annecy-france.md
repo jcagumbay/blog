@@ -38,23 +38,83 @@ Man, the route is beautiful. Sunny skies. A turquoise lake. And most importantly
 
 A quick trip to Annecy during the last days of summer is just the right amount of sun before heading into rainy autumn and cold winter. I would love to bike around the lake again—or somewhere similar.
 
-![Flowers scattered around the city](/assets/wp-content/uploads/2025/12/DSCF8062.jpg) Flowers scattered around the city
-![Taverne Fischer](/assets/wp-content/uploads/2025/12/DSCF8034.jpg) Taverne Fischer
-![Le Pont des Amours](/assets/wp-content/uploads/2025/12/DSCF8013.jpg) Le Pont des Amours
-![Canal connected to the lake snakes through the city ](/assets/wp-content/uploads/2025/12/DSCF8044.jpg) Canal connected to the lake snakes through the city
-![Old houses](/assets/wp-content/uploads/2025/12/DSCF8092.jpg) Old houses
-![French Alps in the background](/assets/wp-content/uploads/2025/12/DSCF8144.jpg) French Alps in the background
-![Pigeon trying to hit on my woman ;)](/assets/wp-content/uploads/2025/12/DSCF8244.jpg) Pigeon trying to hit on my woman ;)
-![Ferry for the hourly lake tour](/assets/wp-content/uploads/2025/12/DSCF8352.jpg) Ferry for the hourly lake tour
-![Lake activities](/assets/wp-content/uploads/2025/12/DSCF8357.jpg) Lake activities
-![Canal viewed from the Pont des Amours](/assets/wp-content/uploads/2025/12/DSCF8407.jpg) Canal viewed from the Pont des Amours
-![Layers of blue](/assets/wp-content/uploads/2025/12/DSCF8497.jpg) Layers of blue
-![La Plage des Marquisats](/assets/wp-content/uploads/2025/12/DSCF8418.jpg) La Plage des Marquisats
-![A quick smooch :*](/assets/wp-content/uploads/2025/12/DSCF8520.jpg) A quick smooch :\*
-![Paragliders](/assets/wp-content/uploads/2025/12/DSCF8543.jpg) Paragliders
-![Enjoying (tired) the bike](/assets/wp-content/uploads/2025/12/DSCF8550.jpg) Enjoying (tired) the bike
-![Happiness](/assets/wp-content/uploads/2025/12/DSCF8597.jpg) Happiness
-![Trying hard not to dive at the shallow rocky shore](/assets/wp-content/uploads/2025/12/DSCF8610.jpg) Trying hard not to dive at the shallow rocky shore
-![Relaxing](/assets/wp-content/uploads/2025/12/DSCF8662.jpg) Relaxing
-![Diving platform](/assets/wp-content/uploads/2025/12/DSCF8689.jpg) Diving platform
-![Enjoying the lake tour before heading to Paris](/assets/wp-content/uploads/2025/12/DSCF8740.jpg) Enjoying the lake tour before heading to Paris
+<figure class="wp-caption">
+<img class="wp-image-6833 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8062.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Flowers scattered around the city</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6832 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8034.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Taverne Fischer</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6831 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8013.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Le Pont des Amours</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6830 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8044.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Canal connected to the lake snakes through the city</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6829 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8092.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Old houses</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6828 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8144.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">French Alps in the background</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6827 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8244.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Pigeon trying to hit on my woman ;)</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6826 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8352.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Ferry for the hourly lake tour</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6825 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8357.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Lake activities</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6824 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8407.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Canal viewed from the Pont des Amours</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6823 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8497.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Layers of blue</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6822 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8418.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">La Plage des Marquisats</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6821 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8520.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">A quick smooch :*</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6820 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8543.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Paragliders</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6819 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8550.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Enjoying (tired) the bike</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6818 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8597.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Happiness</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6817 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8610.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Trying hard not to dive at the shallow rocky shore</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6816 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8662.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Relaxing</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6815 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8689.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Diving platform</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6814 size-full" src="/assets/wp-content/uploads/2025/12/DSCF8740.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Enjoying the lake tour before heading to Paris</figcaption>
+</figure>

@@ -43,24 +43,87 @@ Before heading back to the hotel, we had lunch at a highly reviewed restaurant i
 
 I arrived in Marrakesh hungry, sleepless, and with low expectations. I left full, well-rested, and pleasantly surprised. Yes, there was chaos—a swirling mix of locals and tourists—but it was organized. The people were kind. Vendors didn’t hassle us (or maybe I just had my usual bitchy resting face on). I even had a fun little conversation with a taxi driver on the way to the hotel—95% of which neither of us understood thanks to my broken French and his equally broken English. But it was still fun. Short and sweet.
 
-![Valeria Dar Atlas - The resort where we stayed](/assets/wp-content/uploads/2025/06/DSCF2854.jpg) Valeria Dar Atlas - The resort where we stayed
-![une petite pause at Jardin Majorelle](/assets/wp-content/uploads/2025/06/DSCF2874.jpg) une petite pause at Jardin Majorelle
-![Exotic plants at Jardin Majorelle](/assets/wp-content/uploads/2025/06/DSCF2868.jpg) Exotic plants at Jardin Majorelle
-![Chill guy](/assets/wp-content/uploads/2025/06/DSCF2967.jpg) Chill guy
-![Tall trees at Jardin Majorelle](/assets/wp-content/uploads/2025/06/DSCF2925.jpg) Tall trees at Jardin Majorelle
-![Flea Market where you can buy everything. Literally.](/assets/wp-content/uploads/2025/06/DSCF3061.jpg) Flea Market where you can buy everything. Literally.
-![Random street at the Souk](/assets/wp-content/uploads/2025/06/DSCF3107.jpg) Random street at the Souk
-![Free to play](/assets/wp-content/uploads/2025/06/DSCF3123.jpg) Free to play
-![Cafe Medina](/assets/wp-content/uploads/2025/06/DSCF3159.jpg) Cafe Medina
-![Shoe artisans](/assets/wp-content/uploads/2025/06/DSCF3247.jpg) Shoe artisans
-![Brewing traditional Saharan coffee](/assets/wp-content/uploads/2025/06/DSCF3242.jpg) Brewing traditional Saharan coffee
-![Tajine. Tajine for days.](/assets/wp-content/uploads/2025/06/DSCF3234.jpg) Tajine. Tajine for days.
-![Narrow street without rules. Just pure chaos (yet works seamlessly)](/assets/wp-content/uploads/2025/06/DSCF3222.jpg) Narrow street without rules. Just pure chaos (yet works seamlessly)
-![Baker in a traditional shared oven where everyone brings their own dough to be baked](/assets/wp-content/uploads/2025/06/DSCF3210.jpg) Baker in a traditional shared oven where everyone brings their own dough to be baked
-![Moroccan babouche slippers](/assets/wp-content/uploads/2025/06/DSCF3250.jpg) Moroccan babouche slippers
-![Football jerseys are everywhere](/assets/wp-content/uploads/2025/06/DSCF3276.jpg) Football jerseys are everywhere
-![Busy Souk](/assets/wp-content/uploads/2025/06/DSCF3376.jpg) Busy Souk
-![Moroccan Dye](/assets/wp-content/uploads/2025/06/DSCF3289.jpg) Moroccan Dye
-![Jemaa el-Fnaa - Marrakech’s main square and the most important part of the medina](/assets/wp-content/uploads/2025/06/DSCF3403.jpg) Jemaa el-Fnaa - Marrakech’s main square and the most important part of the medina
-![Buying some safron](/assets/wp-content/uploads/2025/06/DSCF3350.jpg) Buying some safron
-![Chill guys hustling at the Souk](/assets/wp-content/uploads/2025/06/DSCF3216.jpg) Chill guys hustling at the Souk
+<figure class="wp-caption">
+<img class="wp-image-6666 size-full" src="/assets/wp-content/uploads/2025/06/DSCF2854.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Valeria Dar Atlas - The resort where we stayed</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6668 size-full" src="/assets/wp-content/uploads/2025/06/DSCF2874.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">une petite pause at Jardin Majorelle</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6667 size-full" src="/assets/wp-content/uploads/2025/06/DSCF2868.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Exotic plants at Jardin Majorelle</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6670 size-full" src="/assets/wp-content/uploads/2025/06/DSCF2967.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Chill guy</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6669 size-full" src="/assets/wp-content/uploads/2025/06/DSCF2925.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Tall trees at Jardin Majorelle</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6671 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3061.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Flea Market where you can buy everything. Literally.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6672 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3107.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Random street at the Souk</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6673 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3123.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Free to play</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6674 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3159.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Cafe Medina</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6680 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3247.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Shoe artisans</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6679 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3242.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Brewing traditional Saharan coffee</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6678 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3234.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Tajine. Tajine for days.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6677 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3222.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Narrow street without rules. Just pure chaos (yet works seamlessly)</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6676 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3210.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Baker in a traditional shared oven where everyone brings their own dough to be baked</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6681 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3250.jpg" width="1024" height="728" />
+<figcaption class="wp-caption-text">Moroccan babouche slippers</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6682 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3276.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Football jerseys are everywhere</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6683 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3376.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Busy Souk</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6684 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3289.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Moroccan Dye</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6685 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3403.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Jemaa el-Fnaa - Marrakech’s main square and the most important part of the medina</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6686 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3350.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Buying some safron</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6675 size-full" src="/assets/wp-content/uploads/2025/06/DSCF3216.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Chill guys hustling at the Souk</figcaption>
+</figure>

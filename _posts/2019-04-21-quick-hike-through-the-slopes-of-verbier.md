@@ -20,18 +20,56 @@ wordpress_id: 5313
 ---
 
 Every year, Batmaid organize an annual team building held in Verbier, one of the top ski resorts in Switzerland.
+
 The last time I was here 2 years ago, I experienced snow for the first time. :D We spent the weekend at the resort having fun.
+
 Skiing here for sure would be so much fun if I know how to. But even if I have the skill, I would still rather not due to fact that it's quite expensive. :P However, there is a cheaper and equally fun to do; sledging. I didn't have proper gears last time so I stopped after two rounds because my toes are freezing. I was not briefed what to wear for the winter. ;)
+
 But this time, I came with proper clothes. There was one problem though. The slopes were closed due to insufficient amount of snow. Dang!
+
 So, the group decided to go on a quick hike in the mountains to kill the time. The trail was easy but it gets tricky when you don't have enough sleep. :P The *vin chaud* at the end of the trail did help. ;)
-![Skiers preparing to go down ](/assets/wp-content/uploads/2019/04/G0028254_1555842602269_high-1024x768.jpg) Skiers preparing to go down
-![Looks like a movie scene. ;)](/assets/wp-content/uploads/2019/04/G0028278_1555842602269_high-1024x768.jpg) Looks like a movie scene. ;)
-![On our way to the white jungle :D](/assets/wp-content/uploads/2019/04/G0028284_1555842602269_high-1024x768.jpg) On our way to the white jungle :D
-![Skiers and hikers](/assets/wp-content/uploads/2019/04/G0028305_1555842602269_high-1024x768.jpg) Skiers and hikers
-![We also met hikers going opposite to our direction](/assets/wp-content/uploads/2019/04/G0028356_1555842602269_high-1024x768.jpg) We also met hikers going opposite to our direction
-![And on our way too.](/assets/wp-content/uploads/2019/04/G0028399_1555842602269_high-1024x768.jpg) And on our way too.
-![Daily scrum :P](/assets/wp-content/uploads/2019/04/G0028443_1555842602269_high-1024x768.jpg) Daily scrum :P
-![No idea what to do with my hands :D](/assets/wp-content/uploads/2019/04/G0028506_1555842602269_high-1024x768.jpg) No idea what to do with my hands :D
-![Dominik preparing for the front roll](/assets/wp-content/uploads/2019/04/G0028520_1555842602269_high-1024x768.jpg) Dominik preparing for the front roll
-![The Beatles :P](/assets/wp-content/uploads/2019/04/G0028527_1555842602269_high-1024x768.jpg) The Beatles :P
-![Saved by the Hot Wines](/assets/wp-content/uploads/2019/04/G0068664_1555842602269_high-1024x768.jpg) Saved by the Hot Wines
+
+<figure class="wp-caption">
+<img class="wp-image-5306 size-large" src="/assets/wp-content/uploads/2019/04/G0028254_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">Skiers preparing to go down</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5307 size-large" src="/assets/wp-content/uploads/2019/04/G0028278_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">Looks like a movie scene. ;)</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5308 size-large" src="/assets/wp-content/uploads/2019/04/G0028284_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">On our way to the white jungle :D</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5309 size-large" src="/assets/wp-content/uploads/2019/04/G0028305_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">Skiers and hikers</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5310 size-large" src="/assets/wp-content/uploads/2019/04/G0028356_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">We also met hikers going opposite to our direction</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5311 size-large" src="/assets/wp-content/uploads/2019/04/G0028399_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">And on our way too.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5312 size-large" src="/assets/wp-content/uploads/2019/04/G0028443_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">Daily scrum :P</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5315 size-large" src="/assets/wp-content/uploads/2019/04/G0028506_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">No idea what to do with my hands :D</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5316 size-large" src="/assets/wp-content/uploads/2019/04/G0028520_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">Dominik preparing for the front roll</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5317 size-large" src="/assets/wp-content/uploads/2019/04/G0028527_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">The Beatles :P</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-5318 size-large" src="/assets/wp-content/uploads/2019/04/G0068664_1555842602269_high-1024x768.jpg" width="860" height="645" />
+<figcaption class="wp-caption-text">Saved by the Hot Wines</figcaption>
+</figure>

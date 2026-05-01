@@ -58,28 +58,103 @@ We spent our last day at the resort gorging on buffet food and never-ending cock
 Overall, I really enjoyed this trip with friends. And again, *merci beaucoup*, Maxene, for driving!  
 The only downside? The bar is now set really high for the next destination — all thanks to Crete’s free dessert.
 
-![Contemplating on buying souvenirs... on our first day.](/assets/wp-content/uploads/2025/07/DSCF3432.jpg) Contemplating on buying souvenirs... on our first day.
-![#aesthetic](/assets/wp-content/uploads/2025/07/DSCF3449.jpg) #aesthetic
-![Going out for dinner - Heraklion.](/assets/wp-content/uploads/2025/07/DSCF3572.jpg) Going out for dinner - Heraklion.
-![Heraklion port](/assets/wp-content/uploads/2025/07/DSCF3614.jpg) Heraklion port
-![Chasing sunset](/assets/wp-content/uploads/2025/07/DSCF3642.jpg) Chasing sunset
-![Best thing about Crete? Free desserts... and raki.](/assets/wp-content/uploads/2025/07/DSCF3756.jpg) Best thing about Crete? Free desserts... and raki.
-![The ruins of Knossos Palace and its guardian.](/assets/wp-content/uploads/2025/07/DSCF3771.jpg) The ruins of Knossos Palace and its guardian.
-![Knossos Palace (ruins) under scorching heat of summer](/assets/wp-content/uploads/2025/07/DSCF3818.jpg) Knossos Palace (ruins) under scorching heat of summer
-![Cabanas at Matala beach](/assets/wp-content/uploads/2025/07/DSCF3874.jpg) Cabanas at Matala beach
-![Souvenir shops and restaurants at Matala beach](/assets/wp-content/uploads/2025/07/DSCF4206.jpg) Souvenir shops and restaurants at Matala beach
-![Ceramic (window) shopping at Margarites](/assets/wp-content/uploads/2025/07/DSCF4293.jpg) Ceramic (window) shopping at Margarites
-![Ceramic artisan](/assets/wp-content/uploads/2025/07/DSCF4304.jpg) Ceramic artisan
-![Arkadi Monastery and its resident](/assets/wp-content/uploads/2025/07/DSCF4608.jpg) Arkadi Monastery and its resident
-![Benoit and Leni on our way to pirate caves](/assets/wp-content/uploads/2025/07/DSCF4634.jpg) Benoit and Leni on our way to pirate caves
-![Backflipityflop](/assets/wp-content/uploads/2025/07/DSCF4728.jpg) Backflipityflop
-![The Black Pearl](/assets/wp-content/uploads/2025/07/DSCF4770.jpg) The Black Pearl
-![Sunset at Rethimno](/assets/wp-content/uploads/2025/07/DSCF5001.jpg) Sunset at Rethimno
-![Enjoying the backseat queen privilege](/assets/wp-content/uploads/2025/07/DSCF5087.jpg) Enjoying the backseat queen privilege
-![Elafonisi Beach](/assets/wp-content/uploads/2025/07/DSCF5121.jpg) Elafonisi Beach
-![Elafonisi Beach from afar](/assets/wp-content/uploads/2025/07/DSCF5206.jpg) Elafonisi Beach from afar
-![Maxene doing her thing. ](/assets/wp-content/uploads/2025/07/DSCF5284.jpg) Maxene doing her thing.
-![Sfakion port](/assets/wp-content/uploads/2025/07/DSCF5326.jpg) Sfakion port
-![We ended up at a nudist beach](/assets/wp-content/uploads/2025/07/DSCF5552.jpg) We ended up at a nudist beach
-![The fun comes to an end](/assets/wp-content/uploads/2025/07/DSCF5618.jpg) The fun comes to an end
-![Lighthouse at Chania](/assets/wp-content/uploads/2025/07/DSCF5649.jpg) Lighthouse at Chania
+<figure class="wp-caption">
+<img class="wp-image-6715 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3432.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Contemplating on buying souvenirs... on our first day.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6714 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3449.jpg" width="1024" height="550" />
+<figcaption class="wp-caption-text">#aesthetic</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6713 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3572.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Going out for dinner - Heraklion.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6712 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3614.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Heraklion port</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6711 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3642.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Chasing sunset</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6710 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3756.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Best thing about Crete? Free desserts... and raki.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6709 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3771.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">The ruins of Knossos Palace and its guardian.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6708 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3818.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Knossos Palace (ruins) under scorching heat of summer</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6707 size-full" src="/assets/wp-content/uploads/2025/07/DSCF3874.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Cabanas at Matala beach</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6706 size-full" src="/assets/wp-content/uploads/2025/07/DSCF4206.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Souvenir shops and restaurants at Matala beach</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6705 size-full" src="/assets/wp-content/uploads/2025/07/DSCF4293.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Ceramic (window) shopping at Margarites</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6704 size-full" src="/assets/wp-content/uploads/2025/07/DSCF4304.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Ceramic artisan</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6703 size-full" src="/assets/wp-content/uploads/2025/07/DSCF4608.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Arkadi Monastery and its resident</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6702 size-full" src="/assets/wp-content/uploads/2025/07/DSCF4634.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Benoit and Leni on our way to pirate caves</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6701 size-full" src="/assets/wp-content/uploads/2025/07/DSCF4728.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Backflipityflop</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6700 size-full" src="/assets/wp-content/uploads/2025/07/DSCF4770.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">The Black Pearl</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6699 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5001.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Sunset at Rethimno</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6698 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5087.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Enjoying the backseat queen privilege</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6697 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5121.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Elafonisi Beach</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6696 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5206.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Elafonisi Beach from afar</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6695 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5284.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Maxene doing her thing.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6694 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5326.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Sfakion port</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6692 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5552.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">We ended up at a nudist beach</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6691 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5618.jpg" width="1024" height="607" />
+<figcaption class="wp-caption-text">The fun comes to an end</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6690 size-full" src="/assets/wp-content/uploads/2025/07/DSCF5649.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Lighthouse at Chania</figcaption>
+</figure>

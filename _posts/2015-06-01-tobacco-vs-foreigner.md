@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/tobacco-vs-foreigner/"
 wordpress_id: 2188
 ---
 
-![Kevin's first time smoking a local tobacco wrapped in a Java Plum (Duhat) leaf. Dope. :)](/assets/wp-content/uploads/2015/06/IMG_9963-683x1024.jpg) Kevin's first time smoking a local tobacco wrapped in a Java Plum (Duhat) leaf. Dope. :)
+<figure class="wp-caption">
+<img class="wp-image-2080 size-large" src="/assets/wp-content/uploads/2015/06/IMG_9963-683x1024.jpg" width="683" height="1024" />
+<figcaption class="wp-caption-text">Kevin's first time smoking a local tobacco wrapped in a Java Plum (Duhat) leaf. Dope. :)</figcaption>
+</figure>

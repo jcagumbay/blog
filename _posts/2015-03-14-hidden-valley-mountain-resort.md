@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/hidden-valley-mountain-resort/"
 wordpress_id: 2210
 ---
 
-![Me taking a pee at the pool (just kidding). :3](/assets/wp-content/uploads/2015/06/P1050221-575x1024.jpg) Me taking a pee at the pool (just kidding). :3
+<figure class="wp-caption">
+<img class="wp-image-2169 size-large" src="/assets/wp-content/uploads/2015/06/P1050221-575x1024.jpg" width="575" height="1024" />
+<figcaption class="wp-caption-text">Me taking a pee at the pool (just kidding). :3</figcaption>
+</figure>

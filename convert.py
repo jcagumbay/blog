@@ -51,6 +51,12 @@ GALLERY_RE = re.compile(r"\[gallery[^\]]*\]", re.IGNORECASE)
 # First <img src="..."> in content (after URL rewrite this points at /assets/...)
 IMG_SRC_RE = re.compile(r'<img[^>]*\bsrc="([^"]+)"', re.IGNORECASE)
 
+# Inside [caption]...[/caption] separate img markup from trailing caption text
+CAPTION_IMG_RE = re.compile(
+    r'(?P<img>(?:<a[^>]*>\s*)?<img[^>]*?/?>(?:\s*</a>)?)\s*(?P<txt>.*)',
+    re.IGNORECASE | re.DOTALL,
+)
+
 
 def text(elem, path, ns=NS, default=""):
     node = elem.find(path, ns)
@@ -76,11 +82,34 @@ def rewrite_image_urls(content: str) -> str:
     return WP_HOST_RE.sub(r"/assets\1", content)
 
 
-def strip_shortcodes(content: str) -> str:
-    # Convert [caption]...[/caption] to its inner HTML (drops the caption text
-    # framing but preserves the <img>; markdownify will convert it to MD).
-    content = CAPTION_RE.sub(lambda m: m.group(1), content)
-    # Drop [gallery] shortcodes; without WP runtime we can't expand them.
+def strip_shortcodes(content: str, figures: list) -> str:
+    """Replace [caption] blocks with placeholder tokens. The matching figure
+    HTML is appended to the supplied list at the corresponding index."""
+
+    def repl(m):
+        inner = m.group(1).strip()
+        sub = CAPTION_IMG_RE.match(inner)
+        if not sub:
+            figures.append(inner)
+        else:
+            img_html = sub.group("img").strip()
+            caption_text = sub.group("txt").strip()
+            # alt attr can hold long sentences; we strip that down so markdown
+            # alt text stays short. The caption (figcaption) carries the prose.
+            img_html = re.sub(r'\salt="[^"]*"', '', img_html, count=1)
+            if caption_text:
+                fig = (
+                    '<figure class="wp-caption">\n'
+                    f'{img_html}\n'
+                    f'<figcaption class="wp-caption-text">{caption_text}</figcaption>\n'
+                    '</figure>'
+                )
+            else:
+                fig = img_html
+            figures.append(fig)
+        return f"\n\nMDXFIG{len(figures) - 1}MDXFIG\n\n"
+
+    content = CAPTION_RE.sub(repl, content)
     content = GALLERY_RE.sub("", content)
     return content
 
@@ -139,6 +168,27 @@ def build_front_matter(*, layout, title, date, slug, categories, tags,
         lines.append(f"wordpress_id: {post_id}")
     lines.append("---")
     return "\n".join(lines) + "\n\n"
+
+
+BLOCK_TAGS_RE = re.compile(
+    r'^\s*<(?:figure|p|div|ul|ol|li|h[1-6]|blockquote|pre|table|hr|iframe|MDXFIG)',
+    re.IGNORECASE,
+)
+
+
+def wpautop(content: str) -> str:
+    """Wrap double-newline separated text blocks in <p> like WordPress does."""
+    blocks = re.split(r'\n\s*\n+', content.strip())
+    out = []
+    for b in blocks:
+        b = b.strip()
+        if not b:
+            continue
+        if BLOCK_TAGS_RE.match(b) or b.startswith("MDXFIG"):
+            out.append(b)
+        else:
+            out.append(f"<p>{b}</p>")
+    return "\n\n".join(out)
 
 
 def html_to_markdown(html_content: str) -> str:
@@ -228,12 +278,16 @@ def main():
 
         # decode HTML entities WordPress encodes inside CDATA escapes
         content = raw_content or ""
-        content = strip_shortcodes(content)
+        figures: list[str] = []
+        content = strip_shortcodes(content, figures)
         content = rewrite_image_urls(content)
+        figures = [rewrite_image_urls(f) for f in figures]
         # Featured image: prefer _thumbnail_id, fallback to first inline <img>
         first_img = featured_image(item, att_map)
         if not first_img:
             m = IMG_SRC_RE.search(content)
+            if not m and figures:
+                m = IMG_SRC_RE.search("\n".join(figures))
             if m:
                 first_img = m.group(1)
         # Convert excerpt similarly
@@ -244,7 +298,13 @@ def main():
             # collapse whitespace
             excerpt_text = re.sub(r"\s+", " ", excerpt_text)
 
-        body_md = html_to_markdown(content).strip() + "\n"
+        content = wpautop(content)
+        body_md = html_to_markdown(content).strip()
+        # Restore figure blocks that we tokenised before markdownify so they
+        # survive as raw HTML (kramdown passes block-level HTML through).
+        for idx, fig in enumerate(figures):
+            body_md = body_md.replace(f"MDXFIG{idx}MDXFIG", fig)
+        body_md += "\n"
 
         if post_type == "post":
             front = build_front_matter(

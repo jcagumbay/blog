@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/man-made-forest/"
 wordpress_id: 2536
 ---
 
-![A man-made mahogany forest stretching in a two-kilometer stretch of densely planted Mahogany trees located in the border of Loboc and Bilar towns.](/assets/wp-content/uploads/2015/06/P1030752-1024x575.jpg) A man-made mahogany forest stretching in a two-kilometer stretch of densely planted Mahogany trees located in the border of Loboc and Bilar towns.
+<figure class="wp-caption">
+<img class="wp-image-2067 size-large" src="/assets/wp-content/uploads/2015/06/P1030752-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">A man-made mahogany forest stretching in a two-kilometer stretch of densely planted Mahogany trees located in the border of Loboc and Bilar towns.</figcaption>
+</figure>

@@ -1,42 +1,64 @@
 ---
 layout: default
 ---
-<article id="post-{{ page.wordpress_id | default: page.slug }}" class="post single">
-
-  {% if page.image %}
-  <header class="entry-header">
-    <div class="entry-thumbnail">
-      <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" loading="eager">
-    </div>
-  </header>
-  {% endif %}
-
-  <div class="entry-content">
-    <h1 class="page-title">{{ page.title }}</h1>
-    {{ content }}
-  </div>
-
-  <footer class="entry-meta">
-    <div class="posted">
-      <span class="posted-on">
-        <time class="entry-date published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-      </span>
-      {% if page.author %}<span class="byline"> <i>by</i> <span class="author">J-Boy Cagumbay</span></span>{% endif %}
-    </div>
-    {% if page.categories.size > 0 or page.tags.size > 0 %}
-    <div class="extrameta">
-      {% if page.categories.size > 0 %}
-      <span class="cat-links">Category: {% for c in page.categories %}{% assign cs = c | slugify %}<a href="/category/{{ cs }}/">{{ c }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.</span>
-      {% endif %}
-      {% if page.tags.size > 0 %}
-      <span class="tags-links">Tag: {% for t in page.tags %}{% assign ts = t | slugify %}<a href="/tag/{{ ts }}/">{{ t }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
-      {% endif %}
-    </div>
+<nav id="single-nav" aria-label="Post navigation">
+  <div id="single-nav-right">
+    {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}" rel="prev">
+      <span class="nav-arrow">&#8249;</span>
+      <span class="nav-title">{{ page.previous.title }}</span>
+    </a>
     {% endif %}
-  </footer>
+  </div>
+  <div id="single-nav-left">
+    {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}" rel="next">
+      <span class="nav-title">{{ page.next.title }}</span>
+      <span class="nav-arrow">&#8250;</span>
+    </a>
+    {% endif %}
+  </div>
+</nav>
 
-  <nav class="post-nav">
-    {% if page.previous %}<a class="prev" href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>{% endif %}
-    {% if page.next %}<a class="next" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a>{% endif %}
-  </nav>
-</article>
+<div id="wrap-content" class="wrap">
+  <div id="content" class="site-content">
+    <div id="primary" class="content-area">
+      <article id="post-{{ page.wordpress_id | default: page.slug }}" class="post single">
+
+        {% if page.image %}
+        <header class="entry-header">
+          <div class="entry-thumbnail">
+            <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" loading="eager">
+          </div>
+        </header>
+        {% endif %}
+
+        <div class="entry-content">
+          <h1 class="page-title">{{ page.title }}</h1>
+          {{ content }}
+        </div>
+
+        <footer class="entry-meta">
+          <div class="posted">
+            <span class="posted-on">
+              <time class="entry-date published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+            </span>
+            {% if page.author %}<span class="byline"> <i>by</i> <span class="author">J-Boy Cagumbay</span></span>{% endif %}
+          </div>
+          {% if page.categories.size > 0 or page.tags.size > 0 %}
+          <div class="extrameta">
+            {% if page.categories.size > 0 %}
+            <span class="cat-links">Category: {% for c in page.categories %}{% assign cs = c | slugify %}<a href="/category/{{ cs }}/">{{ c }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}.</span>
+            {% endif %}
+            {% if page.tags.size > 0 %}
+            <span class="tags-links">Tag: {% for t in page.tags %}{% assign ts = t | slugify %}<a href="/tag/{{ ts }}/">{{ t }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+            {% endif %}
+          </div>
+          {% endif %}
+        </footer>
+      </article>
+    </div><!-- #primary -->
+
+    {% include sidebar.html %}
+  </div><!-- #content -->
+</div><!-- #wrap-content -->

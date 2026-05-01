@@ -45,22 +45,79 @@ Before we flew back home, we met up with Elena, an old friend from when I starte
 
 I’m not sure what it’s like during winter (I assume brutal), but would I go back to Copenhagen? Fuck yeah!
 
-![Sunbathers](/assets/wp-content/uploads/2025/11/DSCF7070.jpg) Sunbathers
-![Broens Street Food](/assets/wp-content/uploads/2025/11/DSCF7079.jpg) Broens Street Food
-![Boats at Nyhavn](/assets/wp-content/uploads/2025/11/DSCF7095.jpg) Boats at Nyhavn
-![Nyhavn at night](/assets/wp-content/uploads/2025/11/DSCF7243.jpg) Nyhavn at night
-![Pride house (not if it is a house or a museum)](/assets/wp-content/uploads/2025/11/DSCF7249.jpg) Pride house (not if it is a house or a museum)
-![IronMan on the way](/assets/wp-content/uploads/2025/11/DSCF7259.jpg) IronMan on the way
-![The Danish Parliament](/assets/wp-content/uploads/2025/11/DSCF7270.jpg) The Danish Parliament
-![GGSS](/assets/wp-content/uploads/2025/11/DSCF7370.jpg) GGSS
-![Cavalier up in the sky](/assets/wp-content/uploads/2025/11/DSCF7299.jpg) Cavalier up in the sky
-![Boating](/assets/wp-content/uploads/2025/11/DSCF7445.jpg) Boating
-![Random street in the city](/assets/wp-content/uploads/2025/11/DSCF7466.jpg) Random street in the city
-![Pincho Nation](/assets/wp-content/uploads/2025/11/DSCF7508.jpg) Pincho Nation
-![Church of Our Saviour tower](/assets/wp-content/uploads/2025/11/DSCF7526.jpg) Church of Our Saviour tower
-![Crossing the Butterfly 3-way bridge](/assets/wp-content/uploads/2025/11/DSCF7567.jpg) Crossing the Butterfly 3-way bridge
-![Sight-seeing from Broens](/assets/wp-content/uploads/2025/11/DSCF7615.jpg) Sight-seeing from Broens
-![Cocktail bar at Broens](/assets/wp-content/uploads/2025/11/DSCF7871.jpg) Cocktail bar at Broens
-![Breakfast](/assets/wp-content/uploads/2025/11/DSCF7955.jpg) Breakfast
-![Dinner at Broens](/assets/wp-content/uploads/2025/11/DSCF7816.jpg) Dinner at Broens
-![After-dinner snack???](/assets/wp-content/uploads/2025/11/DSCF7848.jpg) After-dinner snack???
+<figure class="wp-caption">
+<img class="wp-image-6786 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7070.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Sunbathers</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6787 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7079.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Broens Street Food</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6788 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7095.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Boats at Nyhavn</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6789 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7243.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Nyhavn at night</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6790 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7249.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Pride house (not if it is a house or a museum)</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6791 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7259.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">IronMan on the way</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6792 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7270.jpg" width="1024" height="611" />
+<figcaption class="wp-caption-text">The Danish Parliament</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6793 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7370.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">GGSS</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6794 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7299.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Cavalier up in the sky</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6795 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7445.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Boating</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6796 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7466.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Random street in the city</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6797 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7508.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Pincho Nation</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6798 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7526.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Church of Our Saviour tower</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6799 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7567.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Crossing the Butterfly 3-way bridge</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6801 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7615.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Sight-seeing from Broens</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6802 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7871.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Cocktail bar at Broens</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6803 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7955.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Breakfast</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6804 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7816.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Dinner at Broens</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6805 size-full" src="/assets/wp-content/uploads/2025/11/DSCF7848.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">After-dinner snack???</figcaption>
+</figure>

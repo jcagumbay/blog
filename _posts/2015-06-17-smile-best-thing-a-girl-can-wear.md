@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/smile-best-thing-a-girl-can-wear/"
 wordpress_id: 2392
 ---
 
-![Nikki wearing her best smile. Taken at Moalboal White Beach.](/assets/wp-content/uploads/2015/06/IMG_9416-1024x682.jpg) Nikki wearing her best smile. Taken at Moalboal White Beach.
+<figure class="wp-caption">
+<img class="wp-image-2391 size-large" src="/assets/wp-content/uploads/2015/06/IMG_9416-1024x682.jpg" width="860" height="573" />
+<figcaption class="wp-caption-text">Nikki wearing her best smile. Taken at Moalboal White Beach.</figcaption>
+</figure>

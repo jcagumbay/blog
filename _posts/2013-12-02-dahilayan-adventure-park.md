@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/dahilayan-adventure-park/"
 wordpress_id: 2180
 ---
 
-![Our second destination of a 2-day vacation in Cagayan: Dahilayan Adventure Park in Bukidnon.](/assets/wp-content/uploads/2015/06/IMG_5364-1024x924.jpg) Our second destination of a 2-day vacation in Cagayan: Dahilayan Adventure Park in Bukidnon.
+<figure class="wp-caption">
+<img class="wp-image-2071 size-large" src="/assets/wp-content/uploads/2015/06/IMG_5364-1024x924.jpg" width="860" height="776" />
+<figcaption class="wp-caption-text">Our second destination of a 2-day vacation in Cagayan: Dahilayan Adventure Park in Bukidnon.</figcaption>
+</figure>

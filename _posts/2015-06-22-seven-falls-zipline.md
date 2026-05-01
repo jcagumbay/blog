@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/seven-falls-zipline/"
 wordpress_id: 2522
 ---
 
-![South Cotabato's Seven Falls Zipline, the highest in South East Asia at a stunning height of more than 180 meters.](/assets/wp-content/uploads/2015/06/DSC_0025-1024x678.jpg) South Cotabato's Seven Falls Zipline, the highest in South East Asia at a stunning height of more than 180 meters.
+<figure class="wp-caption">
+<img class="wp-image-2520 size-large" src="/assets/wp-content/uploads/2015/06/DSC_0025-1024x678.jpg" width="860" height="569" />
+<figcaption class="wp-caption-text">South Cotabato's Seven Falls Zipline, the highest in South East Asia at a stunning height of more than 180 meters.</figcaption>
+</figure>

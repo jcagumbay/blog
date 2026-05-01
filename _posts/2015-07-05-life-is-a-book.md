@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/life-is-a-book/"
 wordpress_id: 2559
 ---
 
-![Tomorrow is the next page which you’ll never know what awaits unless you flip it.](/assets/wp-content/uploads/2015/07/IMG_0118-1024x682.jpg) Tomorrow is the next page which you’ll never know what awaits unless you flip it.
+<figure class="wp-caption">
+<img class="wp-image-2555 size-large" src="/assets/wp-content/uploads/2015/07/IMG_0118-1024x682.jpg" width="860" height="573" />
+<figcaption class="wp-caption-text">Tomorrow is the next page which you’ll never know what awaits unless you flip it.</figcaption>
+</figure>

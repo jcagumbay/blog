@@ -49,19 +49,67 @@ After lunch, we headed back to the hotel because, at this age, naps are already 
 
 Oh, and the main reason we were in the Netherlands? To watch a concert by "*worldwide handsome*" Jin. *Do you know BTS ?*
 
-![Devouring herrings (this was actually in Amsterdam few hours before going back to Paris)](/assets/wp-content/uploads/2025/10/DSCF7063.jpg) Devouring herrings (this was actually in Amsterdam few hours before going back to Paris)
-![Herring for days. On a sandwich was good too.](/assets/wp-content/uploads/2025/10/DSCF7050.jpg) Herring for days. On a sandwich was good too.
-![Utrecht Library](/assets/wp-content/uploads/2025/10/DSCF7027.jpg) Utrecht Library
-![Herring and Slay: it's just the way of life here](/assets/wp-content/uploads/2025/10/DSCF7038.jpg) Herring and Slay: it's just the way of life here
-![Thinker on a Rock](/assets/wp-content/uploads/2025/10/DSCF7017.jpg) Thinker on a Rock
-![Brunch](/assets/wp-content/uploads/2025/10/DSCF6960.jpg) Brunch
-![Domkerk Church](/assets/wp-content/uploads/2025/10/DSCF6950.jpg) Domkerk Church
-![Bike friendly street](/assets/wp-content/uploads/2025/10/DSCF6979.jpg) Bike friendly street
-![Ice cream break](/assets/wp-content/uploads/2025/10/DSCF6937.jpg) Ice cream break
-![Yaas queeen!!](/assets/wp-content/uploads/2025/10/DSCF6820.jpg) Yaas queeen!!
-![Statue of Dick Bruna & Nijntje](/assets/wp-content/uploads/2025/10/DSCF6874.jpg) Statue of Dick Bruna & Nijntje
-![Tourists in the Old Town](/assets/wp-content/uploads/2025/10/DSCF6798.jpg) Tourists in the Old Town
-![Kayaking at the canal](/assets/wp-content/uploads/2025/10/DSCF6720.jpg) Kayaking at the canal
-![Table for 5, please.](/assets/wp-content/uploads/2025/10/DSCF6652.jpg) Table for 5, please.
-![Herring for days!](/assets/wp-content/uploads/2025/10/DSCF6611.jpg) Herring for days!
-![The main reason why we went to Amsterdam](/assets/wp-content/uploads/2025/10/3C063C90-D8FA-4EA6-842A-C6D125152618_1_105_c.jpg) The main reason why we went to Amsterdam
+<figure class="wp-caption">
+<img class="wp-image-6774 size-full" src="/assets/wp-content/uploads/2025/10/DSCF7063.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Devouring herrings (this was actually in Amsterdam few hours before going back to Paris)</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6773 size-full" src="/assets/wp-content/uploads/2025/10/DSCF7050.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Herring for days. On a sandwich was good too.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6772 size-full" src="/assets/wp-content/uploads/2025/10/DSCF7027.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Utrecht Library</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6771 size-full" src="/assets/wp-content/uploads/2025/10/DSCF7038.jpg" width="1024" height="508" />
+<figcaption class="wp-caption-text">Herring and Slay: it's just the way of life here</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6770 size-full" src="/assets/wp-content/uploads/2025/10/DSCF7017.jpg" width="1024" height="733" />
+<figcaption class="wp-caption-text">Thinker on a Rock</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6769 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6960.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Brunch</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6768 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6950.jpg" width="1024" height="580" />
+<figcaption class="wp-caption-text">Domkerk Church</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6767 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6979.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Bike friendly street</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6766 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6937.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Ice cream break</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6765 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6820.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Yaas queeen!!</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6764 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6874.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Statue of Dick Bruna &amp; Nijntje</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6763 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6798.jpg" width="1024" height="588" />
+<figcaption class="wp-caption-text">Tourists in the Old Town</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6762 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6720.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Kayaking at the canal</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6761 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6652.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Table for 5, please.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6760 size-full" src="/assets/wp-content/uploads/2025/10/DSCF6611.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Herring for days!</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6758 size-full" src="/assets/wp-content/uploads/2025/10/3C063C90-D8FA-4EA6-842A-C6D125152618_1_105_c.jpg" width="1024" height="917" />
+<figcaption class="wp-caption-text">The main reason why we went to Amsterdam</figcaption>
+</figure>

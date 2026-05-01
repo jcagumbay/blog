@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/welcome-to-cagayan-de-oro/"
 wordpress_id: 2178
 ---
 
-![The port of Cagayan de Oro early in the morning as we arrived from Cebu. A weekend getaway at Bobong's place.](/assets/wp-content/uploads/2015/06/IMG_5165-1024x575.jpg) The port of Cagayan de Oro early in the morning as we arrived from Cebu. A weekend getaway at Bobong's place.
+<figure class="wp-caption">
+<img class="wp-image-2070 size-large" src="/assets/wp-content/uploads/2015/06/IMG_5165-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">The port of Cagayan de Oro early in the morning as we arrived from Cebu. A weekend getaway at Bobong's place.</figcaption>
+</figure>

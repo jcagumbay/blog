@@ -44,26 +44,95 @@ So what did we do in Lisbon? Food. We probably ate seafood every single day. And
 
 Those few days in Lisbon were a nice way to escape the cold winter in France and get some sun. Or so we thought. That was our rookie mistake. Because of the strong winds, it was even colder than in France. 😄 But it was all good. Cold weather with fresh seafood? I’ll take that any day.
 
-![Iris in front of the ubiquituous tiles in Lisbon](/assets/wp-content/uploads/2026/01/DSCF8881.jpg) Iris in front of the ubiquituous tiles in Lisbon
-![Buildings full of colors](/assets/wp-content/uploads/2026/01/DSCF8914.jpg) Buildings full of colors
-![Man with his violin](/assets/wp-content/uploads/2026/01/DSCF8905.jpg) Man with his violin
-![Church at the end of the street](/assets/wp-content/uploads/2026/01/DSCF9011.jpg) Church at the end of the street
-![Grumpy cat - my spriti animal](/assets/wp-content/uploads/2026/01/DSCF9156.jpg) Grumpy cat - my spriti animal
-![Not Patrick](/assets/wp-content/uploads/2026/01/DSCF9174.jpg) Not Patrick
-![Stairs. A lot of them.](/assets/wp-content/uploads/2026/01/DSCF9406.jpg) Stairs. A lot of them.
-![Steep slope. I believe this was where the tram accident happened in Lisbon few months ago](/assets/wp-content/uploads/2026/01/DSCF9471.jpg) Steep slope. I believe this was where the tram accident happened in Lisbon few months ago
-![John Wick?](/assets/wp-content/uploads/2026/01/DSCF9484.jpg) John Wick?
-![Pink street](/assets/wp-content/uploads/2026/01/DSCF9541.jpg) Pink street
-![Lisbon tram](/assets/wp-content/uploads/2026/01/DSCF9784-2.jpg) Lisbon tram
-![Tourist tram](/assets/wp-content/uploads/2026/01/DSCF9560.jpg) Tourist tram
-![Inside the tourist tram. And yes, we took it because we were tired as fuck.](/assets/wp-content/uploads/2026/01/DSCF9575.jpg) Inside the tourist tram. And yes, we took it because we were tired as fuck.
-![Public and tourist trams share the same route.](/assets/wp-content/uploads/2026/01/DSCF9649.jpg) Public and tourist trams share the same route.
-![K-drama-ish?](/assets/wp-content/uploads/2026/01/DSCF8813.jpg) K-drama-ish?
-![LX Factory: Hipster place where you can eat and shop.](/assets/wp-content/uploads/2026/01/DSCF9218.jpg) LX Factory: Hipster place where you can eat and shop.
-![Lisbon rissotto ? I forgot the name but it was damn good.](/assets/wp-content/uploads/2026/01/DSCF9321.jpg) Lisbon rissotto ? I forgot the name but it was damn good.
-![Grilled fish. Expensive but worth it.](/assets/wp-content/uploads/2026/01/DSCF9314.jpg) Grilled fish. Expensive but worth it.
-![I was looking forward to this very red shrimp. Yessir! I suck every bit of this mf.](/assets/wp-content/uploads/2026/01/DSCF9293.jpg) I was looking forward to this very red shrimp. Yessir! I suck every bit of this mf.
-![Pastel de nata. Or shall I say, Pasheeesshh! :fire-emoji:](/assets/wp-content/uploads/2026/01/DSCF8975.jpg) Pastel de nata. Or shall I say, Pasheeesshh! :fire-emoji:
-![Yep! Trop bon !](/assets/wp-content/uploads/2026/01/DSCF8999.jpg) Yep! Trop bon !
-![The death of this octopus was guraranteed justified. FOR SURE.](/assets/wp-content/uploads/2026/01/DSCF9136.jpg) The death of this octopus was guraranteed justified. FOR SURE.
-![Dreamy rainy christmasy evening](/assets/wp-content/uploads/2026/01/DSCF9126.jpg) Dreamy rainy christmasy evening
+<figure class="wp-caption">
+<img class="wp-image-6841 size-full" src="/assets/wp-content/uploads/2026/01/DSCF8881.jpg" width="1024" height="638" />
+<figcaption class="wp-caption-text">Iris in front of the ubiquituous tiles in Lisbon</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6843 size-full" src="/assets/wp-content/uploads/2026/01/DSCF8914.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Buildings full of colors</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6844 size-full" src="/assets/wp-content/uploads/2026/01/DSCF8905.jpg" width="1024" height="555" />
+<figcaption class="wp-caption-text">Man with his violin</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6848 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9011.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Church at the end of the street</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6851 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9156.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Grumpy cat - my spriti animal</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6852 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9174.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Not Patrick</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6857 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9406.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Stairs. A lot of them.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6858 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9471.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Steep slope. I believe this was where the tram accident happened in Lisbon few months ago</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6860 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9484.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">John Wick?</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6859 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9541.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Pink street</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6863 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9784-2.jpg" width="1024" height="652" />
+<figcaption class="wp-caption-text">Lisbon tram</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6862 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9560.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Tourist tram</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6861 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9575.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Inside the tourist tram. And yes, we took it because we were tired as fuck.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6864 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9649.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Public and tourist trams share the same route.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6842 size-full" src="/assets/wp-content/uploads/2026/01/DSCF8813.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">K-drama-ish?</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6853 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9218.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">LX Factory: Hipster place where you can eat and shop.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6856 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9321.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Lisbon rissotto ? I forgot the name but it was damn good.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6855 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9314.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Grilled fish. Expensive but worth it.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6854 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9293.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">I was looking forward to this very red shrimp. Yessir! I suck every bit of this mf.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6845 size-full" src="/assets/wp-content/uploads/2026/01/DSCF8975.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Pastel de nata. Or shall I say, Pasheeesshh! :fire-emoji:</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6847 size-full" src="/assets/wp-content/uploads/2026/01/DSCF8999.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Yep! Trop bon !</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6850 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9136.jpg" width="1024" height="623" />
+<figcaption class="wp-caption-text">The death of this octopus was guraranteed justified. FOR SURE.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6849 size-full" src="/assets/wp-content/uploads/2026/01/DSCF9126.jpg" width="1024" height="617" />
+<figcaption class="wp-caption-text">Dreamy rainy christmasy evening</figcaption>
+</figure>

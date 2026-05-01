@@ -42,18 +42,63 @@ We did the usual things: walked around the old town, strolled along the shopping
 
 Anyway, it’s always nice to stay in touch with good friends and reflect on how far we’ve come. It feels even more special when you realize it’s been so long since you’ve had that much fun—and that many sleepless nights racing to meet last-minute deadlines and cram for unprepared exams. Damn, we’re old.
 
-![Alte Oper](/assets/wp-content/uploads/2025/09/DSCF5834.jpg) Alte Oper
-![This street musician plays a wonderful song for the newly wed](/assets/wp-content/uploads/2025/09/DSCF5905.jpg) This street musician plays a wonderful song for the newly wed
-![All of Europe's money are here](/assets/wp-content/uploads/2025/09/DSCF6502.jpg) All of Europe's money are here
-![Iron Footbridge](/assets/wp-content/uploads/2025/09/DSCF6406.jpg) Iron Footbridge
-![Boat, paddle boards and ducks](/assets/wp-content/uploads/2025/09/DSCF6478.jpg) Boat, paddle boards and ducks
-![Sunday fun day at the riverbank](/assets/wp-content/uploads/2025/09/DSCF6372.jpg) Sunday fun day at the riverbank
-![Schweizer Street](/assets/wp-content/uploads/2025/09/DSCF6287.jpg) Schweizer Street
-![Holbeinsteg](/assets/wp-content/uploads/2025/09/bridge.jpg) Holbeinsteg
-![Chilling at the Iron Bridge](/assets/wp-content/uploads/2025/09/DSCF6023.jpg) Chilling at the Iron Bridge
-![But first, beers.](/assets/wp-content/uploads/2025/09/IMG_3596.jpg) But first, beers.
-![schnitzel with Frankfurt's green sauce](/assets/wp-content/uploads/2025/09/DSCF6261.jpg) schnitzel with Frankfurt's green sauce
-![a HUUUGE porkchop](/assets/wp-content/uploads/2025/09/DSCF6259.jpg) a HUUUGE porkchop
-![Sausages](/assets/wp-content/uploads/2025/09/IMG_3676.jpg) Sausages
-![Lotlot, Dexter and Me](/assets/wp-content/uploads/2025/09/DSCF5924.jpg) Lotlot, Dexter and Me
-![Frankfurt Cathedral](/assets/wp-content/uploads/2025/09/DSCF6591.jpg) Frankfurt Cathedral
+<figure class="wp-caption">
+<img class="wp-image-6736 size-full" src="/assets/wp-content/uploads/2025/09/DSCF5834.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Alte Oper</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6738 size-full" src="/assets/wp-content/uploads/2025/09/DSCF5905.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">This street musician plays a wonderful song for the newly wed</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6747 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6502.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">All of Europe's money are here</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6746 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6406.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Iron Footbridge</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6748 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6478.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Boat, paddle boards and ducks</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6745 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6372.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Sunday fun day at the riverbank</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6744 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6287.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Schweizer Street</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="size-full wp-image-6753" src="/assets/wp-content/uploads/2025/09/bridge.jpg" width="1024" height="611" />
+<figcaption class="wp-caption-text">Holbeinsteg</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6740 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6023.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Chilling at the Iron Bridge</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6737 size-full" src="/assets/wp-content/uploads/2025/09/IMG_3596.jpg" width="1024" height="659" />
+<figcaption class="wp-caption-text">But first, beers.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6743 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6261.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">schnitzel with Frankfurt's green sauce</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6742 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6259.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">a HUUUGE porkchop</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6749 size-full" src="/assets/wp-content/uploads/2025/09/IMG_3676.jpg" width="1024" height="544" />
+<figcaption class="wp-caption-text">Sausages</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6739 size-full" src="/assets/wp-content/uploads/2025/09/DSCF5924.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Lotlot, Dexter and Me</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-6750 size-full" src="/assets/wp-content/uploads/2025/09/DSCF6591.jpg" width="1024" height="576" />
+<figcaption class="wp-caption-text">Frankfurt Cathedral</figcaption>
+</figure>

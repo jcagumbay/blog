@@ -12,6 +12,7 @@ wordpress_id: 3828
 ---
 
 It was a fine Sunday morning when Iris and I decided to go for a quick ride to West 35 Eco Mountain Resort. It is a 1hr bike ride (*depends on your speed*) from the city through [Cebu Transcentral Highway](http://jboy.cagumbay.com/cebus-transcentral-highway/). The resort is located at Km35, Brgy. Gaas, Balamban, a 5 minute-drive away from Adventure Cafe.
+
 We went there for three reasons:
 
 - **De-stress** - *To relax and breath fresh air after a week of grinding and hustling from work.*
@@ -19,17 +20,54 @@ We went there for three reasons:
 - **Lunch** - *Okay, a lunch date.* \*winks\*
 
 It was the first time for both of us to visit the place and we find it cool, literally. The food was not that special but it was the ambiance that made it perfect for people looking for relaxation. One can choose scenery from lush green mountains of Balamban to the Tañon Strait between Cebu and Negros.
+
 However, there is one place in the resort that surprised me. It's their comfort room. It really stood for its name. (*Scroll down to see what I mean.*) :P
+
 We just stayed there for 2 hours, took pictures and appreciate nature (***tsaar!***) before we headed back home for another binge eating. :P
+
 And oh, did I mention that Iris is my girlfriend? Yes, she is. ...^\_^... If you want to follow her, click [here](http://momentswithjane.com/) to have moments with Jane. ;)
-![Reception area and above is their restaurant, Haven Cafe.](/assets/wp-content/uploads/2016/07/P1080076-1024x575.jpg) Reception area and above is their restaurant, Haven Cafe.
-![Vines found at the open space going to the parking area.](/assets/wp-content/uploads/2016/07/P1080089-1024x575.jpg) Vines found at the open space going to the parking area.
-![Zigzag pathway going up to Haven Cafe.](/assets/wp-content/uploads/2016/07/P1080027-1024x588.jpg) Zigzag pathway going up to Haven Cafe.
-![Let there be light. A not so bright light. [Inside Haven Cafe]](/assets/wp-content/uploads/2016/07/P1070992-1024x575.jpg) Let there be light. A not so bright light. [Inside Haven Cafe]
-![Now I know why it's called "Comfort Room" :3](/assets/wp-content/uploads/2016/07/P1080044-1024x553.jpg) Now I know why it's called "Comfort Room" :3
-![The car park viewed from the viewing deck of Haven Cafe.](/assets/wp-content/uploads/2016/07/P1080011-1024x575.jpg) The car park viewed from the viewing deck of Haven Cafe.
-![The available villas at West 35 Eco Mountain Resort overlooking the lush green mountains .](/assets/wp-content/uploads/2016/07/P1080007-1024x575.jpg) The available villas at West 35 Eco Mountain Resort overlooking the lush green mountains .
-![Such Happy. Much Iris.](/assets/wp-content/uploads/2016/07/P1080046-1024x575.jpg) Such Happy. Much Iris.
-![Y u always smile? Y? :P](/assets/wp-content/uploads/2016/07/P1080066-1024x575.jpg) Y u always smile? Y? :P
-![An attempt for a blogger pose. Nice try Iris. Nice try. :P](/assets/wp-content/uploads/2016/07/P1080049-1024x575.jpg) An attempt for a blogger pose. Nice try Iris. Nice try. :P
-![Cliche but frequently ignored.](/assets/wp-content/uploads/2016/07/P1080083-1024x575.jpg) Cliche but frequently ignored.
+
+<figure class="wp-caption">
+<img class="wp-image-3816 size-large" src="/assets/wp-content/uploads/2016/07/P1080076-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">Reception area and above is their restaurant, Haven Cafe.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3818 size-large" src="/assets/wp-content/uploads/2016/07/P1080089-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">Vines found at the open space going to the parking area.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3823 size-large" src="/assets/wp-content/uploads/2016/07/P1080027-1024x588.jpg" width="860" height="494" />
+<figcaption class="wp-caption-text">Zigzag pathway going up to Haven Cafe.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3820 size-large" src="/assets/wp-content/uploads/2016/07/P1070992-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">Let there be light. A not so bright light. [Inside Haven Cafe]</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3824 size-large" src="/assets/wp-content/uploads/2016/07/P1080044-1024x553.jpg" width="860" height="464" />
+<figcaption class="wp-caption-text">Now I know why it's called "Comfort Room" :3</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3822 size-large" src="/assets/wp-content/uploads/2016/07/P1080011-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">The car park viewed from the viewing deck of Haven Cafe.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3821 size-large" src="/assets/wp-content/uploads/2016/07/P1080007-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">The available villas at West 35 Eco Mountain Resort overlooking the lush green mountains .</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3825 size-large" src="/assets/wp-content/uploads/2016/07/P1080046-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">Such Happy. Much Iris.</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3827 size-large" src="/assets/wp-content/uploads/2016/07/P1080066-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">Y u always smile? Y? :P</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3826 size-large" src="/assets/wp-content/uploads/2016/07/P1080049-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">An attempt for a blogger pose. Nice try Iris. Nice try. :P</figcaption>
+</figure>
+<figure class="wp-caption">
+<img class="wp-image-3817 size-large" src="/assets/wp-content/uploads/2016/07/P1080083-1024x575.jpg" width="860" height="483" />
+<figcaption class="wp-caption-text">Cliche but frequently ignored.</figcaption>
+</figure>

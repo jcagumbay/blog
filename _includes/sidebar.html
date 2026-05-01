@@ -1,0 +1,43 @@
+<aside id="secondary" class="widget-area" role="complementary">
+
+  {% if site.author_photo or site.author_bio %}
+  <div class="widget widget_text">
+    <p class="widget-title">Who is?</p>
+    <div class="textwidget">
+      {% if site.author_photo %}
+      <p class="author-photo">
+        <img src="{{ site.author_photo | relative_url }}" alt="{{ site.author }}" width="200" height="200">
+      </p>
+      {% endif %}
+      {% if site.author_bio %}<p class="author-bio">{{ site.author_bio }}</p>{% endif %}
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="widget widget_recent_posts">
+    <p class="widget-title">Recent Travels</p>
+    <ul class="recent-thumbs">
+      {% assign recent = site.posts | slice: 0, 6 %}
+      {% for r in recent %}
+      <li>
+        <a href="{{ r.url | relative_url }}" {% if r.url == page.url %}aria-current="page"{% endif %}>
+          {% if r.image %}<img src="{{ r.image | relative_url }}" alt="{{ r.title | escape }}" width="80" height="80">{% endif %}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  {% if site.sidebar_categories %}
+  <div class="widget widget_categories">
+    <p class="widget-title">Categories</p>
+    <div class="textwidget">
+      {% for c in site.sidebar_categories %}
+      <a href="{{ c.url | relative_url }}" class="category-image-link" aria-label="{{ c.name }}">
+        <img src="{{ c.image | relative_url }}" alt="{{ c.name }}">
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</aside>

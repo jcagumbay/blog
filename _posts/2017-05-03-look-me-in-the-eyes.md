@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/look-me-in-the-eyes/"
 wordpress_id: 4242
 ---
 
-!["Look at me and become my people." - Iris. The face that always fascinated me. Taken at Krakow Old Town.](/assets/wp-content/uploads/2017/05/IMG_3090-Copy-1024x683.jpg) "Look at me and become my people." - Iris. The face that always fascinated me. Taken at Krakow Old Town.
+<figure class="wp-caption">
+<img class="wp-image-4240 size-large" src="/assets/wp-content/uploads/2017/05/IMG_3090-Copy-1024x683.jpg" width="860" height="574" />
+<figcaption class="wp-caption-text">"Look at me and become my people." - Iris. The face that always fascinated me. Taken at Krakow Old Town.</figcaption>
+</figure>

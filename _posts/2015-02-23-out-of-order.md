@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/out-of-order/"
 wordpress_id: 2277
 ---
 
-![The broken slide at Salagdoong Beach Resort located in Maria, Siquijor.](/assets/wp-content/uploads/2015/06/P1050107-575x1024.jpg) The broken slide at Salagdoong Beach Resort located in Maria, Siquijor.
+<figure class="wp-caption">
+<img class="wp-image-2046 size-large" src="/assets/wp-content/uploads/2015/06/P1050107-575x1024.jpg" width="575" height="1024" />
+<figcaption class="wp-caption-text">The broken slide at Salagdoong Beach Resort located in Maria, Siquijor.</figcaption>
+</figure>

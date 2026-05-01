@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/mangroves/"
 wordpress_id: 2602
 ---
 
-![Newly planted mangroves found at the end of Olango Paradise shoreline.](/assets/wp-content/uploads/2015/07/IMG_0472-1024x683.jpg) Newly planted mangroves found at the end of Olango Paradise shoreline.
+<figure class="wp-caption">
+<img class="wp-image-2589 size-large" src="/assets/wp-content/uploads/2015/07/IMG_0472-1024x683.jpg" width="860" height="574" />
+<figcaption class="wp-caption-text">Newly planted mangroves found at the end of Olango Paradise shoreline.</figcaption>
+</figure>

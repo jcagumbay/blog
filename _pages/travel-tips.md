@@ -8,6 +8,7 @@ original_url: "https://jboy.cagumbay.com/travel-tips/"
 > Travel while you’re young and able\*. Don’t worry about the money, just make it work. Experience is far more valuable than money will ever be.
 
 [![travel-tips](/assets/wp-content/uploads/2015/08/travel-tips.jpg)](/assets/wp-content/uploads/2015/08/travel-tips.jpg)
+
 Unprepared trip can be one of the worst nightmares when travelling. From the first-hand experience, I've come into a list of travel tips to avoid hassles to make the most out of your adventure.
 
 - **Do your research.** *The top travel tip everyone needs to do before you go on an adventure. Make friend with Google to familiarize your destination. Get to know the available trips going back and forth to your destination.*
@@ -18,4 +19,5 @@ Unprepared trip can be one of the worst nightmares when travelling. From the fi
 - **Enjoy.** *The most important thing to do when you travel is to enjoy. Have fun and grab every opportunity in front of you to make your trip an awesome and epic adventure. Of course, don't forget to take pictures. Your adventure is not complete without pictures to share and talk about when you get home.*
 
 These tips and opinions were not solicited from a professional traveler, but were based on the experiences by the owner.
+
 *\* Be responsible when you travel. Before you go, make sure all your expenses are paid, savings are checked and insurance premiums are settled. If you missed one of these three, then never mind going somewhere else.*

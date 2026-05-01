@@ -17,11 +17,22 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-paginate: 9
+paginate: 6
 paginate_path: "/page:num/"
 
 logo: /assets/wp-content/uploads/2020/05/logo-copy.png
 hero_banner: /assets/wp-content/uploads/2016/04/backflip.gif
+
+author_photo: /assets/wp-content/uploads/2025/07/PHOTO-2025-07-10-18-25-17.jpg
+author_bio: "Web developer. Filipino. Boholano. Hobbyist Photographer. Travel blogger."
+
+sidebar_categories:
+  - name: Travel
+    url: /category/travel/
+    image: /assets/wp-content/uploads/2015/09/category-blog.jpg
+  - name: Photo Wall
+    url: /category/photo-wall/
+    image: /assets/wp-content/uploads/2015/09/category-photowall.jpg
 
 nav:
   - title: About

@@ -11,4 +11,7 @@ original_url: "https://jboy.cagumbay.com/millennial-breakfast/"
 wordpress_id: 4175
 ---
 
-![Taken at an AirBnb in Krakow.](/assets/wp-content/uploads/2017/05/IMG_3163-2-1024x683.jpg) Taken at an AirBnb in Krakow.
+<figure class="wp-caption">
+<img class="wp-image-4177 size-large" src="/assets/wp-content/uploads/2017/05/IMG_3163-2-1024x683.jpg" width="860" height="574" />
+<figcaption class="wp-caption-text">Taken at an AirBnb in Krakow.</figcaption>
+</figure>
