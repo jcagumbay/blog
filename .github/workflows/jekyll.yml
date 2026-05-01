@@ -31,6 +31,25 @@ jobs:
         run: |
           mkdir -p _data
           printf 'google_maps: %s\n' "${{ secrets.GOOGLE_MAPS_API_KEY }}" > _data/api_keys.yml
+      - name: Rewrite asset URLs to R2 CDN
+        if: vars.CDN_URL != ''
+        env:
+          CDN: ${{ vars.CDN_URL }}
+        run: |
+          set -e
+          echo "Rewriting /assets/wp-content/ -> $CDN/wp-content/"
+          # Strip trailing slash from CDN
+          CDN="${CDN%/}"
+          esc=$(printf '%s' "$CDN" | sed -e 's/[\/&|]/\\&/g')
+          # Files where references can appear (skip assets/* and binaries)
+          mapfile -t targets < <(grep -rlF "/assets/wp-content/" \
+            _posts _pages _layouts _includes _config.yml index.html 2>/dev/null || true)
+          if [ ${#targets[@]} -eq 0 ]; then
+            echo "No occurrences found; nothing to rewrite."
+            exit 0
+          fi
+          printf '%s\n' "${targets[@]}" | xargs sed -i "s|/assets/wp-content/|$esc/wp-content/|g"
+          echo "Rewrote ${#targets[@]} files."
       - name: Build site
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
