@@ -16,6 +16,7 @@ download.log
 download_ref.log
 download_failures.log
 download_referenced_failures.log
+r2_upload.log
 
 # secrets — actual key file is committed via CI from a GH secret
 _data/api_keys.yml
