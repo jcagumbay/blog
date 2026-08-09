@@ -1966,5 +1966,29 @@
     "country": "Netherlands",
     "url": "/2025/10/20/utrecht-the-netherlands/",
     "external_url": null
+  },
+  {
+    "id": 165,
+    "title": "Munich, Germany",
+    "address": "Munich, Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822,
+    "city": "Munich",
+    "state": "Bavaria",
+    "country": "Germany",
+    "url": "/2026/08/08/munich-germany/",
+    "external_url": null
+  },
+  {
+    "id": 166,
+    "title": "Salzburg, Austria",
+    "address": "Salzburg, Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806,
+    "city": "Salzburg",
+    "state": "Salzburg",
+    "country": "Austria",
+    "url": "/2026/09/08/salzburg-austria/",
+    "external_url": null
   }
 ]
