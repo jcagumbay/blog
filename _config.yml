@@ -55,7 +55,7 @@ include:
   - _tag
 
 exclude:
-  - codetravelrepeat.WordPress.2026-04-28.xml
+  - wordpress-exports
   - convert.py
   - download_assets.py
   - .venv

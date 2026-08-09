@@ -134,13 +134,13 @@ Pushing to `main` triggers `.github/workflows/jekyll.yml`:
 
 | Type | Name | Value |
 |------|------|-------|
-| Variable | `CDN_URL` | `https://pub-3795b62a20fb4711ae001dc9eec6af44.r2.dev` |
+| Variable | `CDN_URL` | `https://4e8d99e3.cagumbay.com` (R2 custom domain) |
 | Secret   | `GOOGLE_MAPS_API_KEY` | Browser-restricted Google Maps API key |
 
 Set with:
 
 ```sh
-gh variable set CDN_URL --repo jcagumbay/blog --body "https://pub-...r2.dev"
+gh variable set CDN_URL --repo jcagumbay/blog --body "https://4e8d99e3.cagumbay.com"
 gh secret set GOOGLE_MAPS_API_KEY --repo jcagumbay/blog
 ```
 
@@ -169,6 +169,10 @@ rclone sync assets/wp-content/uploads/ r2:jboy-cagumbay-com/wp-content/uploads/ 
 
 ## Re-running the migration from scratch
 
+WXR exports live in `wordpress-exports/`. The three scripts below take the export
+path as an optional first argument; with no argument they use the
+newest-named XML in that directory.
+
 ```sh
 python3 -m venv .venv
 .venv/bin/pip install markdownify requests lxml
@@ -178,6 +182,23 @@ python3 -m venv .venv
 .venv/bin/python download_referenced.py # WP-generated variants (~1.4k more)
 .venv/bin/python parse_locations.py     # map CSV -> _data/locations.json
 ```
+
+## Importing a later WordPress export
+
+Drop the new WXR into `wordpress-exports/`, then:
+
+```sh
+.venv/bin/python convert.py             wordpress-exports/<file>.xml
+.venv/bin/python download_assets.py     wordpress-exports/<file>.xml
+.venv/bin/python download_referenced.py wordpress-exports/<file>.xml
+
+rclone sync assets/wp-content/uploads/YYYY/MM/ \
+  r2:jboy-cagumbay-com/wp-content/uploads/YYYY/MM/ \
+  --header-upload "Cache-Control: public, max-age=31536000, immutable" --progress
+```
+
+`convert.py` only writes items with status `publish` — scheduled (`future`) and
+draft posts are skipped, though their attachments still download.
 
 ## What is gitignored
 

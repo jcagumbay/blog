@@ -19,7 +19,20 @@ from pathlib import Path
 import requests
 
 ROOT = Path(__file__).resolve().parent
-XML_FILE = ROOT / "codetravelrepeat.WordPress.2026-04-28.xml"
+EXPORTS_DIR = ROOT / "wordpress-exports"
+
+
+def resolve_xml(argv) -> Path:
+    """Export file: first CLI arg, else the newest XML in wordpress-exports/."""
+    if len(argv) > 1:
+        return Path(argv[1]).resolve()
+    candidates = sorted(EXPORTS_DIR.glob("*.xml"))
+    if not candidates:
+        sys.exit(f"no XML export found in {EXPORTS_DIR}")
+    return candidates[-1]
+
+
+XML_FILE = resolve_xml(sys.argv)
 ASSETS = ROOT / "assets"
 NS = {"wp": "http://wordpress.org/export/1.2/"}
 
