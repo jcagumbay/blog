@@ -85,37 +85,33 @@ This creates:
 
 - `_posts/YYYY-MM-DD-title-of-the-post.md` with front matter + placeholder figure
 - `assets/wp-content/uploads/YYYY/MM/` directory (drop image files here)
+- `_tag/<slug>.md` / `_category/<slug>.md` for any term that doesn't have one
+
+That last one matters: archive pages are pre-generated rather than produced by
+`jekyll-archives`, so a tag without its file renders on the post but its
+`/tag/<slug>/` URL 404s. Existing archives are left untouched.
 
 Edit the post, drop hero + body images into the `YYYY/MM/` folder. Then:
 
 ```sh
 # 1. upload only the new month's images to R2 (fast)
-rclone sync assets/wp-content/uploads/YYYY/MM/ \
+rclone copy assets/wp-content/uploads/YYYY/MM/ \
   r2:jboy-cagumbay-com/wp-content/uploads/YYYY/MM/ \
   --header-upload "Cache-Control: public, max-age=31536000, immutable" \
   --progress
+rclone check assets/wp-content/uploads/YYYY/MM/ \
+  r2:jboy-cagumbay-com/wp-content/uploads/YYYY/MM/ --size-only
 
-# 2. if you used a brand-new tag or category, regenerate archive pages
-.venv/bin/python tools/wordpress-converter/convert.py   # only if migrating; for ad-hoc tags see below
+# 2. add a map marker — edit _data/locations.json by hand (see below)
 
 # 3. commit + push — CI rewrites /assets/... -> R2 URL and deploys
-git add _posts/YYYY-MM-DD-*.md _category/ _tag/
+git add _posts/YYYY-MM-DD-*.md _category/ _tag/ _data/locations.json
 git commit -m "post: <title>"
 git push
 ```
 
-> **New tag/category note**: archive pages are pre-generated. After introducing a tag that doesn't exist yet, create `_tag/<slug>.md`:
-> ```yaml
-> ---
-> layout: archive
-> kind: tag
-> term: "<tag display name>"
-> slug: "<tag-slug>"
-> title: "<tag display name>"
-> permalink: /tag/<tag-slug>/
-> ---
-> ```
-> Same shape for `_category/<slug>.md` (with `kind: category`).
+> rclone reports `501 NotImplemented` for every file on attempt 1 and succeeds
+> on attempt 2. Expected — trust `rclone check`, not the log.
 
 ## Adding a map marker
 

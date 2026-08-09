@@ -21,6 +21,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]  # repo root
 POSTS_DIR = ROOT / "_posts"
 UPLOADS_ROOT = ROOT / "assets" / "wp-content" / "uploads"
+CAT_DIR = ROOT / "_category"
+TAG_DIR = ROOT / "_tag"
 
 
 def slugify(s: str) -> str:
@@ -31,6 +33,32 @@ def slugify(s: str) -> str:
 
 def yaml_str(v: str) -> str:
     return '"' + v.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def ensure_archive(directory: Path, kind: str, name: str) -> Path | None:
+    """Create _tag/<slug>.md or _category/<slug>.md if absent.
+
+    Archive pages are pre-generated rather than produced by jekyll-archives, so
+    a term without one renders on the post but its /tag/<slug>/ URL 404s.
+    Returns the path when a file was created, None when it already existed.
+    """
+    slug = slugify(name)
+    path = directory / f"{slug}.md"
+    if path.exists():
+        return None
+    directory.mkdir(exist_ok=True)
+    path.write_text(
+        "---\n"
+        "layout: archive\n"
+        f"kind: {kind}\n"
+        f"term: {yaml_str(name)}\n"
+        f"slug: {yaml_str(slug)}\n"
+        f"title: {yaml_str(name)}\n"
+        f"permalink: /{kind}/{slug}/\n"
+        "---\n",
+        encoding="utf-8",
+    )
+    return path
 
 
 def main() -> int:
@@ -92,6 +120,13 @@ def main() -> int:
     post_path.write_text("\n".join(front_lines) + "\n" + body, encoding="utf-8")
     print(f"created {post_path.relative_to(ROOT)}")
     print(f"upload images to {upload_dir.relative_to(ROOT)}/")
+
+    created = [p for p in (
+        [ensure_archive(CAT_DIR, "category", c) for c in cats]
+        + [ensure_archive(TAG_DIR, "tag", t) for t in args.tag]
+    ) if p]
+    for p in created:
+        print(f"created {p.relative_to(ROOT)}")
 
     if not args.no_edit:
         editor = os.environ.get("EDITOR")
