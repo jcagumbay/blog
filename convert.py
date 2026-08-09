@@ -4,6 +4,9 @@ Reads a WXR export (CLI arg, else newest in wordpress-exports/) and writes:
   _posts/YYYY-MM-DD-slug.md   (published posts)
   _pages/slug.md              (published pages)
 
+Pass --include-future to also emit posts WordPress has scheduled but not yet
+published (wp:status "future").
+
 Image URLs pointing at the original WordPress site are rewritten to local
 /assets/wp-content/uploads/... paths so they can be served from the repo
 after running download_assets.py.
@@ -24,11 +27,18 @@ from markdownify import markdownify as md
 ROOT = Path(__file__).resolve().parent
 EXPORTS_DIR = ROOT / "wordpress-exports"
 
+# Scheduled posts export with status "future"; --include-future picks them up so
+# the markdown can land ahead of the WP publish date (Jekyll's own `future`
+# setting still governs whether the build renders them).
+INCLUDE_FUTURE = "--include-future" in sys.argv
+WRITE_STATUSES = {"publish", "future"} if INCLUDE_FUTURE else {"publish"}
+
 
 def resolve_xml(argv) -> Path:
-    """Export file: first CLI arg, else the newest XML in wordpress-exports/."""
-    if len(argv) > 1:
-        return Path(argv[1]).resolve()
+    """Export file: first positional CLI arg, else newest XML in wordpress-exports/."""
+    positional = [a for a in argv[1:] if not a.startswith("-")]
+    if positional:
+        return Path(positional[0]).resolve()
     candidates = sorted(EXPORTS_DIR.glob("*.xml"))
     if not candidates:
         sys.exit(f"no XML export found in {EXPORTS_DIR}")
@@ -265,7 +275,7 @@ def main():
         status = text(item, "wp:status")
         if post_type not in ("post", "page"):
             continue
-        if status != "publish":
+        if status not in WRITE_STATUSES:
             skipped += 1
             continue
 
@@ -370,7 +380,7 @@ def main():
     for item in items:
         if text(item, "wp:post_type") != "post":
             continue
-        if text(item, "wp:status") != "publish":
+        if text(item, "wp:status") not in WRITE_STATUSES:
             continue
         cs, ts = collect_terms(item)
         for c in cs:
