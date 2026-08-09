@@ -26,12 +26,28 @@ Jekyll source for [jcagumbay.github.io/blog](https://jcagumbay.github.io/blog/),
 | `_data/` | Site data — `locations.json` (map markers), `api_keys.yml` (gitignored) |
 | `assets/css/main.css` | Theme styles |
 | `assets/wp-content/uploads/` | Images (gitignored, mirrored to R2) |
+| `tools/new-post/` | `new_post.py` — scaffold a new post. The only tool in routine use |
+| `tools/wordpress-converter/` | One-shot migration scripts + their inputs (see below) |
+| `.github/workflows/jekyll.yml` | Build + deploy to GitHub Pages, rewrite asset URLs to R2 |
+
+### `tools/wordpress-converter/`
+
+Retired after the migration — kept for re-importing a later WordPress export.
+
+| Path | Purpose |
+|------|---------|
 | `convert.py` | WXR → posts/pages/archives generator |
 | `download_assets.py` | Pull WP attachments listed in WXR |
 | `download_referenced.py` | Pull WP-generated variants referenced in post content |
 | `parse_locations.py` | WP Google Maps CSV → `_data/locations.json` |
-| `new_post.py` | Scaffold a new post |
-| `.github/workflows/jekyll.yml` | Build + deploy to GitHub Pages, rewrite asset URLs to R2 |
+| `exports/` | WXR XML exports |
+| `map_locations.csv` | WP Google Maps plugin dump, input to `parse_locations.py` |
+
+> **`parse_locations.py` is effectively retired.** `_data/locations.json` is now
+> the source of truth and is edited by hand — see "Adding a map marker". The
+> script rebuilds that file wholesale from the 164-row CSV, so running it drops
+> any marker added since the migration. Only run it after re-exporting the CSV
+> from WordPress.
 
 ## Local development
 
@@ -62,7 +78,7 @@ cp _data/api_keys.example.yml _data/api_keys.yml
 ## Adding a new post
 
 ```sh
-./new_post.py "Title of the Post" --cat Travel --tag city --tag country
+./tools/new-post/new_post.py "Title of the Post" --cat Travel --tag city --tag country
 ```
 
 This creates:
@@ -80,7 +96,7 @@ rclone sync assets/wp-content/uploads/YYYY/MM/ \
   --progress
 
 # 2. if you used a brand-new tag or category, regenerate archive pages
-.venv/bin/python convert.py    # only if migrating; for ad-hoc tags see below
+.venv/bin/python tools/wordpress-converter/convert.py   # only if migrating; for ad-hoc tags see below
 
 # 3. commit + push — CI rewrites /assets/... -> R2 URL and deploys
 git add _posts/YYYY-MM-DD-*.md _category/ _tag/
@@ -117,7 +133,9 @@ Edit `_data/locations.json` directly:
 }
 ```
 
-Or re-export `map_locations.csv` from WP and run `./parse_locations.py`.
+Or re-export `map_locations.csv` from WP and run
+`tools/wordpress-converter/parse_locations.py` — but read the warning above
+first, it overwrites hand-added markers.
 
 ## Deployment
 
@@ -169,28 +187,34 @@ rclone sync assets/wp-content/uploads/ r2:jboy-cagumbay-com/wp-content/uploads/ 
 
 ## Re-running the migration from scratch
 
-WXR exports live in `wordpress-exports/`. The three scripts below take the export
-path as an optional first argument; with no argument they use the
-newest-named XML in that directory.
+WXR exports live in `tools/wordpress-converter/exports/`. The three scripts below
+take the export path as an optional first argument; with no argument they use the
+newest-named XML in that directory. They resolve `_posts/`, `assets/` etc.
+relative to the repo root, so they can be run from anywhere.
 
 ```sh
-python3 -m venv .venv
-.venv/bin/pip install markdownify requests lxml
+cd tools/wordpress-converter
 
-.venv/bin/python convert.py             # WXR -> _posts, _pages, _category, _tag
-.venv/bin/python download_assets.py     # WP attachments (~2.5k images)
-.venv/bin/python download_referenced.py # WP-generated variants (~1.4k more)
-.venv/bin/python parse_locations.py     # map CSV -> _data/locations.json
+python3 -m venv ../../.venv
+../../.venv/bin/pip install markdownify requests lxml
+
+../../.venv/bin/python convert.py             # WXR -> _posts, _pages, _category, _tag
+../../.venv/bin/python download_assets.py     # WP attachments (~2.5k images)
+../../.venv/bin/python download_referenced.py # WP-generated variants (~1.4k more)
+../../.venv/bin/python parse_locations.py     # map CSV -> _data/locations.json
 ```
 
 ## Importing a later WordPress export
 
-Drop the new WXR into `wordpress-exports/`, then:
+Drop the new WXR into `tools/wordpress-converter/exports/`, then, from the repo
+root:
 
 ```sh
-.venv/bin/python convert.py             wordpress-exports/<file>.xml
-.venv/bin/python download_assets.py     wordpress-exports/<file>.xml
-.venv/bin/python download_referenced.py wordpress-exports/<file>.xml
+E=tools/wordpress-converter/exports/<file>.xml
+
+.venv/bin/python tools/wordpress-converter/convert.py             "$E"
+.venv/bin/python tools/wordpress-converter/download_assets.py     "$E"
+.venv/bin/python tools/wordpress-converter/download_referenced.py "$E"
 
 rclone sync assets/wp-content/uploads/YYYY/MM/ \
   r2:jboy-cagumbay-com/wp-content/uploads/YYYY/MM/ \
@@ -198,7 +222,9 @@ rclone sync assets/wp-content/uploads/YYYY/MM/ \
 ```
 
 `convert.py` only writes items with status `publish` — scheduled (`future`) and
-draft posts are skipped, though their attachments still download.
+draft posts are skipped, though their attachments still download. Pass
+`--include-future` to emit scheduled posts too; Jekyll still won't render them
+until a build runs on or after their date.
 
 ## What is gitignored
 

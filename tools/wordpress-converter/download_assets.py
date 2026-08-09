@@ -18,12 +18,13 @@ from pathlib import Path
 
 import requests
 
-ROOT = Path(__file__).resolve().parent
-EXPORTS_DIR = ROOT / "wordpress-exports"
+HERE = Path(__file__).resolve().parent      # tools/wordpress-converter
+ROOT = HERE.parents[1]                      # repo root
+EXPORTS_DIR = HERE / "exports"
 
 
 def resolve_xml(argv) -> Path:
-    """Export file: first CLI arg, else the newest XML in wordpress-exports/."""
+    """Export file: first CLI arg, else the newest XML in exports/."""
     if len(argv) > 1:
         return Path(argv[1]).resolve()
     candidates = sorted(EXPORTS_DIR.glob("*.xml"))
@@ -115,7 +116,7 @@ def main():
 
     print("done:", results)
     if failed_urls:
-        log = ROOT / "download_failures.log"
+        log = HERE / "download_failures.log"
         with open(log, "w") as f:
             for u, s in failed_urls:
                 f.write(f"{u}\t{s}\n")

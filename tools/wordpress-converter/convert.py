@@ -1,6 +1,6 @@
 """WordPress WXR -> Jekyll markdown converter.
 
-Reads a WXR export (CLI arg, else newest in wordpress-exports/) and writes:
+Reads a WXR export (CLI arg, else newest in exports/) and writes:
   _posts/YYYY-MM-DD-slug.md   (published posts)
   _pages/slug.md              (published pages)
 
@@ -24,8 +24,9 @@ from pathlib import Path
 
 from markdownify import markdownify as md
 
-ROOT = Path(__file__).resolve().parent
-EXPORTS_DIR = ROOT / "wordpress-exports"
+HERE = Path(__file__).resolve().parent      # tools/wordpress-converter
+ROOT = HERE.parents[1]                      # repo root
+EXPORTS_DIR = HERE / "exports"
 
 # Scheduled posts export with status "future"; --include-future picks them up so
 # the markdown can land ahead of the WP publish date (Jekyll's own `future`
@@ -35,7 +36,7 @@ WRITE_STATUSES = {"publish", "future"} if INCLUDE_FUTURE else {"publish"}
 
 
 def resolve_xml(argv) -> Path:
-    """Export file: first positional CLI arg, else newest XML in wordpress-exports/."""
+    """Export file: first positional CLI arg, else newest XML in exports/."""
     positional = [a for a in argv[1:] if not a.startswith("-")]
     if positional:
         return Path(positional[0]).resolve()

@@ -55,9 +55,7 @@ include:
   - _tag
 
 exclude:
-  - wordpress-exports
-  - convert.py
-  - download_assets.py
+  - tools
   - .venv
   - Gemfile
   - Gemfile.lock

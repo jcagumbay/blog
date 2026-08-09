@@ -18,7 +18,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[2]  # repo root
 POSTS_DIR = ROOT / "_posts"
 UPLOADS_ROOT = ROOT / "assets" / "wp-content" / "uploads"
 

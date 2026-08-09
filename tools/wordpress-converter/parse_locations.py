@@ -11,8 +11,9 @@ import json
 import re
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
-CSV_FILE = ROOT / "map_locations.csv"
+HERE = Path(__file__).resolve().parent      # tools/wordpress-converter
+ROOT = HERE.parents[1]                      # repo root
+CSV_FILE = HERE / "map_locations.csv"
 POSTS_DIR = ROOT / "_posts"
 DATA_DIR = ROOT / "_data"
 OUT = DATA_DIR / "locations.json"

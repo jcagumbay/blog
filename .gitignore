@@ -10,12 +10,9 @@ __pycache__/
 Gemfile.lock
 .DS_Store
 
-# downloaded WordPress media (regen with download_assets.py + download_referenced.py)
+# downloaded WordPress media (regen with tools/wordpress-converter/)
 assets/wp-content/uploads/
-download.log
-download_ref.log
-download_failures.log
-download_referenced_failures.log
+tools/wordpress-converter/*.log
 r2_upload.log
 
 # secrets — actual key file is committed via CI from a GH secret

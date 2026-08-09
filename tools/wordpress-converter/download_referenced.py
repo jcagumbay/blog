@@ -7,12 +7,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 import requests
 
-ROOT = Path(__file__).resolve().parent
-EXPORTS_DIR = ROOT / "wordpress-exports"
+HERE = Path(__file__).resolve().parent      # tools/wordpress-converter
+ROOT = HERE.parents[1]                      # repo root
+EXPORTS_DIR = HERE / "exports"
 
 
 def resolve_xml(argv) -> Path:
-    """Export file: first CLI arg, else the newest XML in wordpress-exports/."""
+    """Export file: first CLI arg, else the newest XML in exports/."""
     if len(argv) > 1:
         return Path(argv[1]).resolve()
     candidates = sorted(EXPORTS_DIR.glob("*.xml"))
@@ -100,7 +101,7 @@ def main():
                 print(f"  {i}/{len(urls)} {res}")
     print("done:", res)
     if fails:
-        log = ROOT / "download_referenced_failures.log"
+        log = HERE / "download_referenced_failures.log"
         with open(log, "w") as f:
             for u, s in fails:
                 f.write(f"{u}\t{s}\n")
