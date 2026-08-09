@@ -1,6 +1,36 @@
 ---
 layout: default
 ---
+{%- comment -%}
+  A location may point at a post Jekyll has not published yet (a scheduled post
+  with a future date is absent from site.posts until a build runs on or after
+  that date). Rendering its marker would put a "Read post" link to a 404 on the
+  map, so filter those out here rather than shipping the raw data file.
+
+  Kept: markers with no url (a place with no post), and absolute urls (external
+  links, which no post backs).
+{%- endcomment -%}
+{%- capture published_urls -%}|{% for p in site.posts %}{{ p.url }}|{% endfor %}{%- endcapture -%}
+{%- assign visible_count = 0 -%}
+{%- capture locations_json -%}
+[
+{%- assign sep = "" -%}
+{%- for loc in site.data.locations -%}
+  {%- assign show = true -%}
+  {%- if loc.url and loc.url != "" -%}
+    {%- unless loc.url contains "://" -%}
+      {%- capture needle -%}|{{ loc.url }}|{%- endcapture -%}
+      {%- unless published_urls contains needle -%}{%- assign show = false -%}{%- endunless -%}
+    {%- endunless -%}
+  {%- endif -%}
+  {%- if show -%}
+    {{- sep }}{{ loc | jsonify -}}
+    {%- assign sep = "," -%}
+    {%- assign visible_count = visible_count | plus: 1 -%}
+  {%- endif -%}
+{%- endfor -%}
+]
+{%- endcapture -%}
 <div id="wrap-content" class="wrap">
   <div id="content" class="site-content">
     <div id="primary" class="content-area">
@@ -9,7 +39,7 @@ layout: default
         <div class="page-content">
           {{ content }}
           <div id="travel-map" aria-label="Map of places I've visited"></div>
-          <p class="map-count">{{ site.data.locations | size }} places.</p>
+          <p class="map-count">{{ visible_count }} places.</p>
         </div>
       </article>
     </div>
@@ -18,7 +48,7 @@ layout: default
 </div>
 
 <script>
-  window.MAP_LOCATIONS = {{ site.data.locations | jsonify }};
+  window.MAP_LOCATIONS = {{ locations_json }};
 </script>
 <script async defer
   src="https://maps.googleapis.com/maps/api/js?key={{ site.data.api_keys.google_maps }}&callback=initTravelMap&loading=async&v=weekly"></script>
